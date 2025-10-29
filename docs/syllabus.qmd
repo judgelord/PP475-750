@@ -77,7 +77,7 @@ The instructor treated students with respect. Q217
 
 
 
-This class covers research on the policy effects of various movements such as the marriage equality movement, the living wage movement, the Tea Party movement, the American Indian Movement, the civil rights movement, the anti-communist movement, the environmental justice movement, the anti-war movement, the new right, and certain aspects of labor and suffrage/feminist/women's movements.
+This class covers research on the policy effects of various movements such as the marriage equality movement, the living wage movement, the Tea Party movement, <!--the American Indian Movement,--> the civil rights movement, the anti-communist movement, the environmental justice movement, the anti-war movement, the new right, and certain aspects of labor and suffrage/feminist/women's movements.
 
 
 ## ∴ Course Philosophy 
@@ -544,9 +544,11 @@ Movement demands (Sanders 1999; Htun & Weldon 2012; Woodly 2015, 2022; Sinha 201
 
 ### Thursday 
 
-> https://scholar.harvard.edu/files/shoag/files/dopoliticalprotestsmatterevidencef_preview.pdf
 
 > Skocpol, T., & Williamson, V. (2011). The Tea Party and the remaking of Republican conservatism. Oxford University Press.  Introduction, Chapters 1 & 2
+
+> SKIM [Do Political Protests Matter? Evidence from the Tea Party Movement](https://scholar.harvard.edu/files/shoag/files/dopoliticalprotestsmatterevidencef_preview.pdf) The *Quarterly Journal of Economics*, Volume 128, Issue 4, November 2013, Pages 1633–1685 <https://doi.org/10.1093/qje/qjt021>
+
 
 ## Week 7: Vehicles 
 
@@ -556,8 +558,9 @@ Movement demands (Sanders 1999; Htun & Weldon 2012; Woodly 2015, 2022; Sinha 201
 
 > Skocpol, T., & Williamson, V. (2011). The Tea Party and the remaking of Republican conservatism. Oxford University Press.  Chapter 3
 
-> TBD 
-
+<!--
+> TBD on Unions?
+--> 
 
 ### Thursday: Parties 
 
@@ -637,11 +640,19 @@ By Laurel Weldon, Introduction and Chapter 1 <!---Chapter 2-->
 > Heaney, M. T., & Rojas, F. (2015). Party in the street: The antiwar movement and the Democratic Party after 9/11. Cambridge University Press.
 
 
-## Week 12: Climate Change
+## Week 12: Environmental Justice
 
-> TBD
+> People of color [raised] social justice concerns such as self-determination, sovereignty, human rights, social inequality, loss of land base, limited access to natural resources, and disproportionate impacts of environmental hazards and linked them with traditional working-class environmental concerns such as worker rights and worker health and safety to develop an environmental justice agenda. (Taylor, p. 1)
+
+
+>  To Discuss: ["Race, Class, Gender, and American Environmentalism. US Forest Service General Technical Report PNW-GTR-534" (2002) by Dorceta Taylor](https://doi.org/10.2737/PNW-GTR-534) <!--could also go under movements--> (1-41)
 
 ::: {.callout-note collapse="true" title="Further reading"}
+- [Racism as a Motivator for Climate Justice, Mark A. Mitchell, *Daedalus* Fall 2020](https://www.amacad.org/publication/racism-motivator-climate-justice)
+- [Bringing Environmental Justice into Government Rulemaking, with Ann Wolverton (Resources Radio, 2023)](https://www.resources.org/resources-radio/bringing-environmental-justice-into-government-rulemaking-with-ann-wolverton/) (32 min) 🎧
+- Bullard, R. D. (2005). *The quest for environmental justice: Human rights and the politics of pollution*
+- [Putting more climate philanthropy toward economic and racial justice: A conversation with Abdul Dosunmu about the Climate Funders Justice Pledge. (Volts, 2023)](https://www.volts.wtf/p/putting-more-climate-philanthropy) (48 min) 🎧 
+- [*Roosevelt Project Gulf Coast case* (2022) by Jason Beckfield et al.  1-30](https://ceepr.mit.edu/wp-content/uploads/2022/12/2022-The-Roosevelt-Project-Gulf-Coast-Case-Study.pdf)
 - [Less Talk, More Walk: Why Climate Change Demands Activism in the Academy](https://direct.mit.edu/daed/article/149/4/151/94866/Less-Talk-More-Walk-Why-Climate-Change-Demands)
 - *Fighting in a World on Fire* by Malm
 - *Climate Change as Class War* by Huber 
