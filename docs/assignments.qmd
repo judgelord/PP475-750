@@ -1,0 +1,152 @@
+---
+title: "Assignment Guide <br>   <br> "
+title-block-banner: "#001B35" # banner.png
+title-block-banner-color: body-bg
+format:
+# pdf: default
+ html:
+   toc: true
+   toc-location: left
+   theme: michigan.scss
+css: styles.css
+execute:
+  echo: false
+  engine: knitr
+---
+
+# The Main Assignment: Revise, Critique, Revise, Critique, Revise, Exhibit
+    
+The main assignments for this class all build to one highly-polished exhibition of six pieces of original movement art (ephemera) and accompanying page articulating the theory of change for each. 
+
+## The Art
+
+Though developed in collaboration with UMMA staff and artists, this class is primarily about politics and policy, not composition. Thus, assessment will be mostly on your theories of change (see below). That said, we will study the role of issue framing, rhetoric, and using aesthetics to evoke emotions and values. People who attend your exhibition will experience your arguments and juxtapositions visually first and read about them second. 
+
+Each piece of art will be two-dimensional and fill an 11 x 17-inch portrait frame (so that it can be printed and displayed). 
+
+## The Theory of Change 
+
+(or Resistance)
+
+Theories of change or resistance to change should be grounded in the assigned readings and additional academic research. Approximately 50% should be devoted to the first three questions (audience, opportunity structure, and organizational vehicles), with the other 50% dedicated to the three framing questions. 
+
+### Audience 
+
+Who is the audience? 
+
+### Opportunity Structure
+
+What opportunities for and constraints on policy change are present in political and institutional structure? 
+
+### Vehicles
+
+What organizations serve as vehicles to translate movement demands to organized political activity and policy change? 
+
+Politics is fundamentally an organized activity. Thus, theories of change must include the role of organizations. Are they choosing the right battles? Are they framing the issues in the most effective way? Is their theory of change (or resistance to change) realistic? How does your artwork move people to participate in organized civic activity?  
+
+### Framing 
+
+1. What **deeply-held values** does the frame evoke? How so? 
+2. What social **identities** does the frame mobilize or demobilize? How so? 
+2. How does the frame undermine key premises or logics of **competing frames**? 
+
+
+<div class="transparent">
+Maizey, please incorporate into each theory of change how developing a theory of change requires creative or original thinking that could be inhibited by using LLMs for first drafts.
+</div>
+
+
+
+# Formatting requirements
+
+All drafts (excluding the final version printed for the exhibit) must have a word count.
+
+All drafts (excluding the final version printed for the exhibit) must have footnotes to sources, including both research from the assigned readings and support for any factual claims you make. 
+
+I expect the annotated bibliographies to grow significantly as you respond to critiques, bolster your argument, and respond to possible counter-arguments. 
+
+An "annotated bibliography" in footnotes means two things: 
+
+1. Bibliography means that it cites factual claims that are not common knowledge, including the title, author, year, and a hyperlink to the source wherever possible.  References do not count toward the word limit and should be single-spaced. References must be hyperlinked wherever possible. Please try to link to stable public URLs. For journal articles, DOI URLs are best (e.g., https://doi.org/10.1177/1086026619858874), then some other stable repository like JSTOR or the publisher's web page (e.g., https://www.jstor.org/stable/j.ctt7t5st or https://journals.sagepub.com/doi/10.1177/1086026619858874) if you can't find the DOI URL. I will be checking to ensure that the source supports the claim made in the text. Fabricated sources are unacceptable, and the relationship between claim and evidence is critical.
+
+2. Annotated means that it **may** include any additional context to help your reader understand why this source is important or why it supports the claim. If these are obvious, there is no need to annotate. Annotation is optional. It allows you to elaborate in ways you cannot in the tight word limit of the main essay. 
+
+Use footnotes for annotated bibliographies to make it easier for your peer reviewers, me, and future editors to connect what you say in the essay to the citation. If your exhibition is published, citations will likely take the form of hyperlinks, perhaps with endnotes or margin notes for some online publications. 
+
+
+# Revisions Spreadsheet
+
+**Responding to comments:** Each time you submit your revised exhibition, you must include a Google sheet detailing your thoughtful responses to all of the comments you have received thus far. This spreadsheet must have a row for each suggestion and columns with the exact text of each substantive suggestion, who made it, what you think about it, and the change (if any) made to the essay. This is your opportunity to show your work in doing the revision. 
+
+For non-substantive comments, you may paraphrase: 
+
+For example: 
+
+- If I had a bunch of spelling and grammar notes, I don't need a line for each one. Just saying "Grammar" | "All fixed" on one line is fine. (But please use a grammar checker.)
+- If I told you that something was factually incorrect, you don't need to include my exact words; just something like "Revise description of X" is fine.
+
+This spreadsheet will grow longer as you receive more suggestions from me and your peers. 
+
+You must share this spreadsheet with me each time you resubmit your revised essay(s). <mark>Put a link to your Google Sheet at the top of your essay.</mark> A large part of your grade is how you respond to feedback, so I will use this spreadsheet as something like a rubric to assess your thoughtful engagement with my feedback and your peer reviews.
+
+It is up to you whether you want to share this spreadsheet with your peer reviewers. Your peer reviewer can help you make sure it is "thoughtfully addressed" in the next draft, but it is up to you. 
+
+
+<!--
+# Resouces 
+
+
+## Guidance 
+
+🚧🚧🚧🚧🚧🚧🚧🚧🚧
+
+## Example Ephemera 
+
+ 
+🚧🚧🚧🚧🚧🚧🚧🚧🚧
+--> 
+
+
+# Presentations
+
+The short (2-3-minute) presentation assignment gives you practice testing out your argument and presentation skills. This is an opportunity to get quick feedback from the class. I also find that I am able to arrive at more elegant ways to say things when I say them out loud. It engages different parts of the brain and is a great way to workshop ideas.
+
+This is intended to be a **low-stakes practice** oral presentation. It is ungraded: I award points just for doing it. 
+
+It is also intended as an opportunity to get constructive feedback.
+
+I hope you will find it valuable enough that you will want to do it again, but you are only required to do it once. 
+
+We will do up to 2 per day. While you are welcome to do more than one, the first priority goes to those practicing for the first time. 
+
+I've noticed a tendency for some presenters to offer a lot of preface and explanation before going into the heart of their argument. I think you are better off without it. You want feedback on the theory of change itself, so lead with that. 
+
+
+# Peer Reviews 
+
+My expectation for the peer review is a significant and thoughtful engagement with the piece's ideas, as well as detailed notes on the writing (similar to what I gave you all in our meetings). This is an exercise in constructive critique, so there must be suggestions for improvement.
+
+This means <mark> at least a page of written feedback</mark>  (when reviewing multiple essays, this minimum is for all of them combined---though a page on each essay would be great), <mark> as well as some notes or markup of their writing.</mark>  Writing can always be improved. 
+
+### How to submit your review
+
+You can use the <mark> markup features on Canvas</mark>  as you read. </mark> Your written critique should then be uploaded for the peer critique assignment **and** sent to your colleague.</mark>  (You should be able to share a Google Doc or attach a file in the "Comments for this Attempt" bar on Canvas.) <mark> Make sure to submit it in both places.</mark>  The assignment upload goes to me so that you get credit for the assignment. The "Comments for this attempt" make it available to your colleague.
+
+Please let me know if you have any questions. Giving helpful critiques is a nuanced art, and I am happy to talk it through with you. 
+
+### Tips on peer reviews
+
+From [Pedagogy in Action](https://serc.carleton.edu/sp/library/peerreview/tips.html): 
+
+- Before you even make your first comment, read the document all the way through.
+- Make sure you leave enough time for you to read through, respond, and for your peer to edit his/her document with your comments before any deadlines.
+- If you are provided with a feedback form to fill out and something is unclear, do not ignore the item but ask the instructor for clarification.
+- Point out the strengths as well as the weaknesses of the document.
+- Offer suggestions, not commands.
+- Editorial comments should be appropriate and constructive. There is no need to be rude. Be respectful and considerate of the writer's feelings.
+- Be sure that your comments are clear and text-specific so that your peer will know what you are referring to (for example, terms such as "unclear" or "vague" are too general to be helpful).
+- As a reader, raise questions that cross your mind, points that may not have occurred to your peer author.
+- Try not to overwhelm your peer with too much commentary. Follow the feedback form and the issues you are supposed to address.
+- Be careful not to let your own opinions bias your review (for example, don't suggest that your peer completely rewrite the paper just because you don't agree with his/her point of view).
+- Reread your comments before passing them on to your peer. Make sure all your comments make sense and are easy to follow.
+- Avoid turning your peer's paper into your paper.
