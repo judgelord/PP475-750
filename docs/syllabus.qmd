@@ -1,5 +1,5 @@
 ---
-title: "PubPol 475/750<br> Protest, Social Movements,<br> Art, and Policy Change <br><br>"
+title: "PubPol 475/750<br> Protest, Social Movements, Art, and Policy Change"
 title-block-banner: banner.png # "#001B35" # 
 title-block-banner-color: body-bg
 format:
