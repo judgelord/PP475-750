@@ -1,6 +1,6 @@
 ---
-title: "PubPol 475/750<br> Protest, Social Movements, Art, and Policy Change  <br><br><br>"
-title-block-banner: "#001B35" # banner.png
+title: "PubPol 475/750<br> Protest, Social Movements,<br> Art, and Policy Change <br><br>"
+title-block-banner: banner.png # "#001B35" # 
 title-block-banner-color: body-bg
 format:
 # pdf: default
@@ -23,9 +23,9 @@ Instructor: Devin Judge-Lord, <judgelor@umich.edu>, 715-204-4287
 
 ---
 
-This class explores political science and sociology research on how protests and movements affect policy, focusing on 20th and 21st-century movements in the United States. It covers opportunity structure, movement organizations, issue framing, coalition building, and the relationship between movements and political parties.  It also explores the role of movement art in policy change through creating and curating movement art, culminating in an exhibition at the end of the semester.
+This class explores political science and sociology research on how protests and social movements affect policy, focusing on 20th and 21st-century movements in the United States. It covers opportunity structure, movement organizations, issue framing, coalition building, the relationships among movements and political parties, and the role of social movements in democracy.  It also explores the role of movement art in policy debates. Applying theories of policy change to a cause of their choosing, students will create and curate movement art, culminating in an exhibition at the end of the semester.
 
-This is a small upper-level reading-intensive seminar that requires coming to class prepared to discuss the reading. There are no quizzes, exams, or prescriptive rubrics. Assessment is based on your thoughtful engagement with the ideas in the reading and with my feedback on your writing and art and on the articulation of research-based theories of change underlying your exhibitions.
+This is a small upper-level reading-intensive seminar that requires coming to class prepared to discuss the reading. There are no quizzes, exams, or prescriptive rubrics. Assessment is based on your thoughtful engagement with the ideas in the reading and with my feedback on your writing and art and on the articulation of research-based theories of change underlying your exhibitions. No skills or prior experience with art required.    
 
 In 2026 and 2027, this class will be a collaboration with UMMA staff and their [American Ephemera](https://umma.umich.edu/blog/umma-and-the-labadie-collection-launch-ambitious-exhibition-series-on-american-protest-and-social-movements/) exhibit.
 	
@@ -530,7 +530,7 @@ Chapter Six: From Marginal to Mainstream
 
 
 ::: {.callout-note collapse="true" title="Further reading"}
-Movement demands (Sanders 1999; Htun & Weldon 2012; Woodly 2015, 2022; Sinha 2016; Thurston 2018; Forrester 2022; Tarrow 2022) 
+Movement demands (Sanders 1999; Htun & Weldon 2012; 2022; Sinha 2016; Thurston 2018; Forrester 2022; Tarrow 2022) 
 :::
 
 ## Week 6:  The Tea Party
@@ -660,15 +660,14 @@ By Laurel Weldon, Introduction and Chapter 1 <!---Chapter 2-->
 
 ## Week 13: Movements & Democracy 
 
-Reckoning: Black Lives Matter and the Democratic Necessity of Social Movements by Deva R. Woodly
 
 ### Tuesday
 
-Introduction + Chapters 1-3
+> Reckoning: Black Lives Matter and the Democratic Necessity of Social Movements by Deva R. Woodly, Introduction + Chapters 1-3
 
 ### Thursday 
 
-Chapters 4, 5, and Conclusion
+> Reckoning: Black Lives Matter and the Democratic Necessity of Social Movements by Deva R. Woodly, Chapters 4, 5, and Conclusion
 
 
 ## Week 14
