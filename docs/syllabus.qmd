@@ -400,6 +400,11 @@ Organizing
 -["Spadework: On political organizing" by Alyssa Battistoni ](https://www.nplusonemag.com/issue-34/politics/spadework/)
 
 
+Leadership 
+
+- ["Organizational leaders and intersectional advocacy" by Maraam A. Dwidar, Kathleen Marchetti & Dara Z. Strolovitch](https://www.tandfonline.com/doi/full/10.1080/21565503.2024.2402318)
+
+
 Present-day movements in the United States 
 
 - [*The Resistance*, Edited by David S. Meyer and Sidney Tarrow](https://global.oup.com/academic/product/the-resistance-9780190886189?cc=gb&lang=en&)
@@ -463,22 +468,22 @@ There are many "further" readings, and some required readings (especially the lo
 - What has been your personal experience with protest, social movement discourse, and policy? What motivates you to do something? What makes you not want to get involved? 
 
 
+
+ > To Discuss: Schlozman, D. J. (2015). When movements anchor parties: Electoral alignments in American history. Princeton University Press. (Introduction, 1-13)
+ 
+
 ## Week 2:
-
-
-
-::: {.callout-note collapse="true" title="Further reading"}
-*Civil Resistance: What Everyone Needs to Know* by Erica Chenoweth
-Chapter 1: What is Civil Resistance?
-Chapter 2: How Civil Resistance Works
-:::
 
 - To what extent have climate movements been effective, and why?
 - To what extent are the underlying features of U.S. climate politics outlined by McAdam in 2017 still true? 
 
 ### Tuesday: Opportunity Structure and Mobilizing Structures 
 
+
+> Schlozman, D. J. (2015). When movements anchor parties: Electoral alignments in American history. Princeton University Press. (Chapter 1, 14-49)
+
 > To Discuss: Research: [McAdam, Doug. 2017. “Social Movement Theory and the Prospects for Climate Change Activism in the United States.” *Annual Review of Political Science* 20:189–2008](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-052615-025801)
+
 
 
 ::: {.callout-note collapse="true" title="Further reading"}
@@ -489,7 +494,7 @@ Chapter 2: How Civil Resistance Works
 ### Thursday: 
 
 
-> Stone, Chapter 1
+> Stone, Chapters 1 and 7
 
 > To Discuss: Research: [Chapter 1. Deva Woodly. 2015. The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance, Oxford University Press.](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&lang=en&)
 
@@ -504,6 +509,9 @@ Chapter 2: How Civil Resistance Works
 ## Thursday 
 
 > TBD 
+
+<!-- Labor?--> 
+
 
 ## Week 4: Equity and Equality
 
@@ -554,21 +562,26 @@ Movement demands (Sanders 1999; Htun & Weldon 2012; 2022; Sinha 2016; Thurston 2
 
 ### Tuesday: Social movement organizations, grass roots, and grass tops
 
-> Stone, Chapters 7 and 10
+> Stone, Chapter 10: Interests
 
 > Skocpol, T., & Williamson, V. (2011). The Tea Party and the remaking of Republican conservatism. Oxford University Press.  Chapter 3
 
+> Strolovitch, Dara. 2006\. Do Interest Groups Represent the Disadvantaged? Advocacy at the Inter sections of Race, Class, and Gender. *Journal of Politics*. 
+
+
 <!--
-> TBD on Unions?
+> TBD on Labor Unions?
 --> 
 
-### Thursday: Parties 
+### Thursday: Coalitions 
 
-
-> Schlozman, D. J. (2015). When movements anchor parties: Electoral alignments in American history. Princeton University Press. (1-49)
-
+> Dwidar, Maraam A. 2024. *Power to the Partners: Organizational Coalitions in Social Justice Advocacy*. Chapters 1 and 8 
 
 ::: {.callout-note collapse="true" title="Further reading"}
+-  Hojnacki, Marie. 1997\. Interest Groups’ Decisions to Join Alliances or Work Alone. *American Journal of Political Science*. 
+
+- The P3 Lab. 2023\. Designing Resilient Coalitions. 
+
 - Skocpol 2006
 :::
 
@@ -595,13 +608,11 @@ Movement demands (Sanders 1999; Htun & Weldon 2012; 2022; Sinha 2016; Thurston 2
 
 >  Gillion, D. Q. (2013). The political power of protest: Minority activism and shifts in public policy. Cambridge University Press. (p. 1-38)
 
-> When Protest Makes Policy
-How Social Movements Represent Disadvantaged Groups
-By Laurel Weldon, Introduction and Chapter 1 <!---Chapter 2--> 
+> *When Protest Makes Policy: How Social Movements Represent Disadvantaged Groups* by Laurel Weldon, Introduction and Chapter 1 <!---Chapter 2--> 
 
 >  [Gause 2022, Chapter 1, The Promise of Protest](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F80BB473DA827BC0A449880ABC3C1DE5/9781316513576c1_1-18.pdf/the-promise-of-protest.pdf)
 
-> SKIM Wasaw (2020) "Agenda Seeding: How 1960s Black Protests Moved Elites, Public Opinion and Voting" (https://www.cambridge.org/core/journals/american-political-science-review/article/agenda-seeding-how-1960s-black-protests-moved-elites-public-opinion-and-voting/136610C8C040C3D92F041BB2EFC3034C)
+> SKIM [Wasaw (2020) "Agenda Seeding: How 1960s Black Protests Moved Elites, Public Opinion and Voting"](https://www.cambridge.org/core/journals/american-political-science-review/article/agenda-seeding-how-1960s-black-protests-moved-elites-public-opinion-and-voting/136610C8C040C3D92F041BB2EFC3034C)
 
 
 
