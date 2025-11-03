@@ -231,7 +231,7 @@ Below is the schedule of due dates.
 
 In the first third of the class, you develop six exhibition ideas and attempt to write a theory of change for each. 
 
-- Week 1: A list of **6** policies you would like to see changed, **3** organizations working to create each policy change, and one example of [ephemera](https://en.wikipedia.org/wiki/Ephemera) from each organization. (1%)^[Most organizations have an email list---I suggest signing up, both for the assignments in this class and your future career.] 
+- Week 1: A list of **six** policies you would like to see changed, **3** organizations working to create each policy change, and one example of [ephemera](https://en.wikipedia.org/wiki/Ephemera) from each organization. (1%)^[Most organizations have an email list---I suggest signing up, both for the assignments in this class and your future career.] 
 - Week 2: **six** 200-word **theories of change** (see [assignment guide](assignments)) for each of **six** of the ephemera from week one, **one** for each policy (in-class peer workshop) (1%) 
 - Week 3: **Six** original sketches, **one** for each policy + a 200-word theory of change for each + annotated bibliography in footnotes (1%) 
 - Week 4:  Peer critiques (2%)
@@ -413,6 +413,10 @@ Movements outside the United States
 
 - [Why Civil Resistance Works: The Strategic Logic of Nonviolent Conflict (New York, NY: Columbia University Press, August 2011).](https://www.ericachenoweth.com/research/wcrw)
 
+Goverment propaganda
+
+-[DHS calls for defending American culture. That leaves some Latinos rattled](https://www.npr.org/2025/10/29/nx-s1-5564025/defend-american-culture-dhs-pledge-leaves-some-latinos-rattled)
+
 ---
 
 # 📖 Reading by Week
@@ -420,9 +424,10 @@ Movements outside the United States
 
 > Each week's required readings are indented and marked with a grey sidebar. I also often note "resources" or "further readings" with bullets---these are not required readings.
 
+<!-- TBD/TODO -- REPLACE READING WITH AUDIO 
 
 🎧 Most weeks include audio content, either in addition to or as an alternative to required reading. Pay attention to the minutes assigned. Some podcasts keep going, and you don't need to keep listening.
-
+--> 
 
 
 I have intentionally put a wide range of perspectives on the syllabus, sometimes in conversation.
@@ -500,13 +505,13 @@ There are many "further" readings, and some required readings (especially the lo
 
 ## Week 3: Efficiency and Welfare
 
-## Tuesday
+### Tuesday
 
 > Stone, Chapter 3-4: Efficiency and Welfare
 
 > Woodly: Chapter Two: A Tale of Two Movements - Living Wage
 
-## Thursday 
+### Thursday 
 
 > TBD 
 
@@ -515,26 +520,32 @@ There are many "further" readings, and some required readings (especially the lo
 
 ## Week 4: Equity and Equality
 
+### Tuesday
+
 > Stone, Chapter 2: Equity
 
 > Woodly, Chapter Three: A Tale of Two Movements- Marriage Equality
 
 
 
-## Thursday at UMMA 
+### Thursday at UMMA 
 
 
 
 ## Week 5: Theories of Change
 
+### Tuesday 
 
-Woodly
 
-Chapter Four: The Discursive Architecture of Resonance
+> Woodly, Chapter Four: The Discursive Architecture of Resonance
 
-Chapter Five: Political Acceptance and the Process of Political Change
+<!--OR?--> 
 
-Chapter Six: From Marginal to Mainstream
+> Woodly, Chapter Five: Political Acceptance and the Process of Political Change
+
+### Thursday 
+
+> Woodly, Chapter Six: From Marginal to Mainstream
 
 
 ::: {.callout-note collapse="true" title="Further reading"}
@@ -631,6 +642,10 @@ Movement demands (Sanders 1999; Htun & Weldon 2012; 2022; Sinha 2016; Thurston 2
 
 ## Week 10: Anti-communism and the New Right 
 
+<!--
+https://npr.brightspotcdn.com/dims3/default/strip/false/crop/744x768+0+0/resize/900/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0f%2F43%2F8e78fd594b2c97adb997a3a43af1%2Fwecantdigest.jpg
+--> 
+
 ### Tuesday 
 
 > Stone, Chapter 16: Powers 
@@ -653,10 +668,16 @@ Movement demands (Sanders 1999; Htun & Weldon 2012; 2022; Sinha 2016; Thurston 2
 
 ## Week 12: Environmental Justice
 
+### Tuesday 
+
 > People of color [raised] social justice concerns such as self-determination, sovereignty, human rights, social inequality, loss of land base, limited access to natural resources, and disproportionate impacts of environmental hazards and linked them with traditional working-class environmental concerns such as worker rights and worker health and safety to develop an environmental justice agenda. (Taylor, p. 1)
 
 
 >  To Discuss: ["Race, Class, Gender, and American Environmentalism. US Forest Service General Technical Report PNW-GTR-534" (2002) by Dorceta Taylor](https://doi.org/10.2737/PNW-GTR-534) <!--could also go under movements--> (1-41)
+
+### Thursday
+
+> TBD 
 
 ::: {.callout-note collapse="true" title="Further reading"}
 - [Racism as a Motivator for Climate Justice, Mark A. Mitchell, *Daedalus* Fall 2020](https://www.amacad.org/publication/racism-motivator-climate-justice)
