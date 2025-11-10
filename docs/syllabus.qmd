@@ -72,11 +72,14 @@ The instructor treated students with respect. Q217
 
 # 🗺️  Objectives
 
+This class aims to empower students to shape policy debates from outside the halls of power. At the end of the semester, students will
 
+1. Understand the historical context of various 20th-century U.S. social movements and their impact on policy
+1. Understand leading social science theories about the conditions under which social movements are likely to affect policy (and when they are not)
+2. Understand how researchers study the impact of social movements and advocacy strategies
+3. Be able to frame policy issues and communicate in ways we would expect to mobilize support and unsettle opposition
 
-
-
-This class covers research on the policy effects of various movements such as the marriage equality movement, the living wage movement, the Tea Party movement, <!--the American Indian Movement,--> the civil rights movement, the anti-communist movement, the environmental justice movement, the anti-war movement, the new right, and certain aspects of labor and suffrage/feminist/women's movements.
+It covers research on the policy effects of various movements such as the marriage equality movement, the living wage movement, the Tea Party movement, <!--the American Indian Movement,--> the civil rights movement, the anti-communist movement, the environmental justice movement, the anti-war movement, the new right, and certain aspects of labor and suffrage/feminist/women's movements.
 
 
 ## ∴ Course Philosophy 
@@ -85,7 +88,7 @@ In designing this course, I proceed from several premises:
 
 1. It is worth knowing the **history** of our current policy debates and the **ideas and values** that the rhetoric of these policy debates evokes.
 
-1. It is more interesting to explore **deeply rooted ideas** and see them in rhetoric than to stay at the level of rhetoric. This class is about politics and policy and only secondarily about rhetoric and communications. I don't want us to limit our thinking to what plays well in current mass media or elite discourse. I want you to develop a position on how you think politics should be reshaped. Then, let that inform your analysis of the rhetoric.
+1. It is more interesting to explore **deeply rooted ideas** and see them in rhetoric than to stay at the level of rhetoric. This class is about politics and policy as well as rhetoric and communications. I don't want us to limit our thinking to what plays well in current mass media or elite discourse. I want you to develop a position on how you think politics should be reshaped. Then, let that inform your analysis of and contributions to political rhetoric.
 
 1. Individual action is good but insufficient; **collective action (and thus politics) is required**. This class is in the public policy school, and I am a political scientist. We are here to learn about the many ways social movements impact (or fail to impact) policy, not argue about whether policy and politics, in general, are useful for solving problems. 
 
@@ -398,7 +401,7 @@ Sports
 
 Organizing 
 
--["Spadework: On political organizing" by Alyssa Battistoni ](https://www.nplusonemag.com/issue-34/politics/spadework/)
+- ["Spadework: On political organizing" by Alyssa Battistoni ](https://www.nplusonemag.com/issue-34/politics/spadework/)
 
 
 Leadership 
@@ -416,7 +419,7 @@ Movements outside the United States
 
 Goverment propaganda
 
--[DHS calls for defending American culture. That leaves some Latinos rattled](https://www.npr.org/2025/10/29/nx-s1-5564025/defend-american-culture-dhs-pledge-leaves-some-latinos-rattled)
+[DHS calls for defending American culture. That leaves some Latinos rattled](https://www.npr.org/2025/10/29/nx-s1-5564025/defend-american-culture-dhs-pledge-leaves-some-latinos-rattled)
 
 ---
 
@@ -578,7 +581,7 @@ Movement demands (Sanders 1999; Htun & Weldon 2012; 2022; Sinha 2016; Thurston 2
 
 > Skocpol, T., & Williamson, V. (2011). The Tea Party and the remaking of Republican conservatism. Oxford University Press.  Chapter 3
 
-> Strolovitch, Dara. 2006\. Do Interest Groups Represent the Disadvantaged? Advocacy at the Inter sections of Race, Class, and Gender. *Journal of Politics*. 
+> Strolovitch, Dara. 2006\. Do Interest Groups Represent the Disadvantaged? Advocacy at the Intersections of Race, Class, and Gender. *Journal of Politics*. 
 
 
 <!--
