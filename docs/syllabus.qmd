@@ -55,7 +55,7 @@ Links to course resources:
 
 ---
 
-Syllabus updated: [`r Sys.Date() |> format("%B %d %Y")`](https://github.com/judgelord/PP495/commits/main/docs/syllabus.html). The current version is [here](syllabus.html).
+🚧 Syllabus updated: [`r Sys.Date() |> format("%B %d %Y")`](https://github.com/judgelord/PP495/commits/main/docs/syllabus.html). The current version is [here](syllabus.html). 🚧
 
 <!--
 This course advanced my understanding of the subject matter. Q1631*
@@ -348,20 +348,22 @@ Beyond four missed classes (two passes, two make-ups), I  only allow make-ups in
 
 #	 📚 Required Books
 
-You must have a physical copy of several books to bring to class: 
+We will read most of the following books.
+As no back-lit screens are permitted in class, a physical copy to bring to class will be helpful. However, if money is tight, free PDFs are available via the library website. 
 
-> [*The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance* by Deva Woodly (2015, Oxford University Press)](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986)
+> [*The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance* by Deva Woodly (2015, Oxford University Press)](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986)  
 
-> *Policy Paradox:  The Art of Political Decision Making* by Deborah Stone
+> *Policy Paradox:  The Art of Political Decision Making* by Deborah Stone (any edition)
  
-> Skocpol, T., & Williamson, V. (2011). The Tea Party and the Remaking of Republican Conservatism. Oxford University Press.
+> Skocpol, T., & Williamson, V. (2011). The Tea Party and the Remaking of Republican Conservatism. Oxford University Press. 
 
-> Heaney, M. T., & Rojas, F. (2015). Party in the street: The antiwar movement and the Democratic Party after 9/11. Cambridge University Press.
+
+> Heaney, M. T., & Rojas, F. (2015). Party in the street: The antiwar movement and the Democratic Party after 9/11. Cambridge University Press.  
+
 
 <!--- McAdam, D. (1999). Political process and the development of Black insurgency, 1930-1970 (2nd ed.). University of Chicago Press. --> 
 
-> Reckoning: Black Lives Matter and the Democratic Necessity of Social Movements by Deva R. Woodly
-
+> Reckoning: Black Lives Matter and the Democratic Necessity of Social Movements by Deva R. Woodly  
 
 
 The other readings will be available for free online (you may need to go through the library website for journal articles) or on Canvas.
@@ -649,7 +651,7 @@ https://npr.brightspotcdn.com/dims3/default/strip/false/crop/744x768+0+0/resize/
 
 > Stone, Chapter 16: Powers 
 
-> Schlozman, D. J. (2015). When movements anchor parties: Electoral alignments in American history. Princeton University Press, Chapter 4 (77-107)
+> Schlozman, D. J. (2015). When Movements Anchor Parties: Electoral Alignments in American History. Princeton University Press, Chapter 4 (77-107)
 
 ### Thursdy
 
@@ -662,7 +664,11 @@ https://npr.brightspotcdn.com/dims3/default/strip/false/crop/744x768+0+0/resize/
 
 ## Week 11: Anti-war 
 
-> Heaney, M. T., & Rojas, F. (2015). Party in the street: The antiwar movement and the Democratic Party after 9/11. Cambridge University Press.
+> Heaney, M. T., & Rojas, F. (2015). Party in the street: The antiwar movement and the Democratic Party after 9/11. Cambridge University Press. (p. TBD)
+
+### Thursday 
+
+Guest speaker
 
 
 ## Week 12: Environmental Justice
@@ -672,7 +678,7 @@ https://npr.brightspotcdn.com/dims3/default/strip/false/crop/744x768+0+0/resize/
 > People of color [raised] social justice concerns such as self-determination, sovereignty, human rights, social inequality, loss of land base, limited access to natural resources, and disproportionate impacts of environmental hazards and linked them with traditional working-class environmental concerns such as worker rights and worker health and safety to develop an environmental justice agenda. (Taylor, p. 1)
 
 
->  To Discuss: ["Race, Class, Gender, and American Environmentalism. US Forest Service General Technical Report PNW-GTR-534" (2002) by Dorceta Taylor](https://doi.org/10.2737/PNW-GTR-534) <!--could also go under movements--> (1-41)
+>  To Discuss: ["Race, Class, Gender, and American Environmentalism. US Forest Service General Technical Report PNW-GTR-534" (2002) by Dorceta Taylor](https://doi.org/10.2737/PNW-GTR-534) (1-41)
 
 ### Thursday
 
