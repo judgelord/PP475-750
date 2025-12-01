@@ -45,7 +45,7 @@ This class will be a collaboration with UMMA staff and their [American Sampler](
 
 
 
-
+<!--
 
 #
   
@@ -60,4 +60,4 @@ This class will be a collaboration with UMMA staff and their [American Sampler](
  
  
  
- 
+ --> 
