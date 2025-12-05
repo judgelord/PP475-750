@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs1
+  render:
+    - "/docs/*.qmd"
+
+website:
+  title: "PubPol 475/750"
+  navbar:
+    left:
+      - href: index.html
+        text: Home
+      - href: syllabus.qmd
+        text: Syllabus
+      - href: assigments.qmd
+        text: Assignment Guide
+
+format:
+ html:
+   toc: true
+   toc-location: left
+   theme: michigan.scss
+   css: styles.css
+
+
+number-depth: 3
+
+# bibliography: assets/congress.bib

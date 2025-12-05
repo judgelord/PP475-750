@@ -1,6 +1,6 @@
 ---
 title: "PubPol 475/750<br> Protest, Social Movements, Art, and Policy Change"
-title-block-banner: banner.png # "#001B35" # 
+title-block-banner:  "#001B35" # banner.png #
 title-block-banner-color: body-bg
 format:
 # pdf: default
