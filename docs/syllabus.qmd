@@ -162,7 +162,7 @@ https://osf.io/preprints/socarxiv/6z5pa_v1] and distract your colleagues. Out of
 
 You will not receive participation points for classes where you are on a screen during class time without permission. 
 
-## 🛠️ Tools That Generate Text
+## <i class="bi bi-tools"></i>️ Tools That Generate Text
 
 You learn by doing work, and I assess your learning by the work you do. You may use tools to help craft your writing, but you must learn the crafts of constructive critique and persuasive writing to succeed in class. To add value to any employer or cause, you must craft arguments and recommendations that are significantly better than they would get by asking a [SALAMI](https://blog.quintarelli.it/2019/11/lets-forget-the-term-ai-lets-call-them-systematic-approaches-to-learning-algorithms-and-machine-inferences-salami/). I expect the same. 
 
@@ -180,7 +180,7 @@ If you use people or tools other than your brain and spelling/grammar checkers t
 
 I reserve the right to discuss your papers in length with you if I have concerns that technological crutches are hindering your learning.
 
-## 🛠️ Tools That Generate Images
+##  🛠️ Tools That Generate Images
 
 I am more optimistic about the value of image-generating tools for this task because they require more thought and instruction from you. Like LLMs, they are essentially a tool of [collage](https://en.wikipedia.org/wiki/Collage). 
 
@@ -284,7 +284,7 @@ I am mostly grading on
 
 Because nearly all assignments are either revised versions of previous submissions that someone else must review on a tight timeline or peer reviews that your peers depend on in order to make revisions on a tight timeline, late work is not an option. 
 
-- If you do not submit a revised version of your op-ed(s) on time, I will resubmit your previous version for review on your behalf. This will make sure you still get feedback on your work. If you submit by the end of the week, I will award partial points, but your reviewer is not expected to wait for the revised version to submit their review. 
+- If you do not submit a revised version on time, I will resubmit your previous version for review on your behalf. This will make sure you still get feedback on your work. If you submit by the end of the week, I will award partial points, but your reviewer is not expected to wait for the revised version to submit their review. 
 - Late reviews are unfair to your classmates. If you do not submit a peer review on time, I will submit a review on your behalf, and you will not receive points for that review. 
 
 Under extenuating circumstances, I will attempt to work out an alternative review cycle. This is much easier if I am the one reviewing a draft than if it is a draft submitted for peer review.
