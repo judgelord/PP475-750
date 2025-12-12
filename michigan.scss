@@ -56,7 +56,7 @@ $callout-color-important: #FFCB05;
 .reveal pre code {
   background-color: #42affa;
   font-size: 1em;
-  padding: 0.1em;
+  padding: 1em;
   line-height: 1.1em;
 }
 
@@ -119,10 +119,14 @@ p {
 
 .reveal blockquote {
   border-left: 3px solid $text-muted;
-  padding-left: 0.1em;
+  padding-left: 1em;
   font-style: italic;
   font-weight: bold;
   color: #4c6782;
 }
 
+.reveal ol li:first-child:nth-last-child(n + 10),
+.reveal ol li:first-child:nth-last-child(n + 10) ~ li {
+  margin-left: 1em;
+}
 

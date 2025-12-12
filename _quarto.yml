@@ -1,8 +1,6 @@
 project:
   type: website
   output-dir: docs
-  # render:
-  #   - "/docs/*.qmd"
 
 website:
   title: "PubPol 475/750 Protest, Social Movements, Art, and Policy Change"
@@ -12,6 +10,8 @@ website:
         text: Syllabus
       - href: assignments.qmd
         text: Assignment Guide
+      # - href: slides
+      #   text: Slides
 
 format:
  html:

@@ -1,0 +1,273 @@
+---
+title: "Agenda Democracy"
+subtitle: ""
+date: today
+author: "Daniel Carpenter"
+image: "https://i.dailymail.co.uk/1s/2018/12/03/22/6966396-6443603-image-a-50_1543877436973.jpg"
+format: 
+  revealjs:
+      incremental: true  
+      theme: [../michigan.scss]
+      footer:  Agenda Democracy by Daniel Carpenter
+      fontsize: "40px"
+      title-slide-attributes:
+        data-background-image: "https://i.dailymail.co.uk/1s/2018/12/03/22/6966396-6443603-image-a-50_1543877436973.jpg"
+        data-background-size: cover
+        data-background-opacity: "0.5"
+---
+
+## Agendas and Democratic Politics
+
+
+The agenda
+
+- a menu of final policy choices
+- the most important problems 
+- <mark>the shortlist of the possible</mark>
+  - the set of things open to public contestation
+  - “what politics is” (Schattschneider 1975)
+  - “common sense.” (Woodly 2015)
+    - what is acceptable 
+    - how to think about problems
+
+---
+
+<a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-051921-102533"><img src="https://i.imgflip.com/7y04h0.jpg" title="the agenda"/></a><div><a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-051921-102533"></a></div>
+
+---
+
+> Political conflict is not like an intercollegiate debate in which the opponents agree in advance on a definition of the issues. As a matter of fact, the definition of the alternatives is the supreme instrument of power; antagonists can rarely agree on what the issues are because power is involved in the definition. 
+
+> He who determines what politics is about runs the country, because the definition of alternatives is the choice of conflicts, and the choice of conflicts allocates power.
+
+-- E. E. Schattschneider, The Semisovereign People (1975)
+
+
+---
+
+## Policy agenda research
+
+
+How the agenda is limited, often by elites or attention dynamics 
+
+   - limiting [the scope of conflict]() (Schattschneider 1975)
+   
+   Bounded rationality
+   
+   1. limiting [the scope of attention]()---"the second face of power" (Bachrach and Baratz 1962)
+   2. "the [premises]() of decision-making" (Simon 1976)
+   
+   Agenda control 
+   
+   - [negative agenda power]()  (e.g., Cox and McCubbins 1993, "procedural cartel" model of Congress) 
+
+
+::: {.notes}
+ e.g. via what is “public” vs. “private”
+(Romer and Rosenthal 1978; Kingdon 1984; Baumgartner and Jones 1993)
+:::
+
+---
+
+## limiting the scope of conflicts
+
+Defining appropriate spheres 
+
+- better left to the individual
+- better left to the family 
+- better left to the market
+- better left to experts
+
+---
+
+## Problem definitions and public meaning
+
+The premises of decision-making + the scope *and meaning* of conflicts
+
+> If a problem is an "environmental" issue does it implicate efficiency questions, questions of the common good, or matters of justice? Why?
+
+
+<!---
+
+
+## The set of people
+
+---> 
+
+
+# Implications
+
+> We have missed the normative and equity dimensions. 
+
+::: {.notes}
+Take for granted who the players are 
+:::
+
+---
+
+> We have ignored fundamental mechanisms of transformational change in institutions and policies.
+
+::: {.notes}
+Sufferage 
+:::
+
+---
+
+> We have excluded central processes in the generation and maintenance of political and economic inequality.
+
+
+**How** are things excluded from being “political” or eligible for political disputation and problem-solving? 
+
+---
+
+The structure of policymaking institutions and advocacy organizations shapes agenda setting because *all* organizations systematically privilege some issues/ideas/conflicts/solutions over others.  
+
+> "All forms of political organization have a bias in favor of the exploitation of some kinds of conflict and the suppression of others because *organization is the mobilization of bias*. Some issues are organized into politics, while others are organized out." - E. E. Schattshneider
+
+---
+
+Legislators receiving more support from businesses and other wealthy interests were more likely to discuss upper-class priorities.
+
+<img src="https://www.russellsage.org/sites/default/files/9780871545732.jpg" alt="Hijacking the Agenda book cover" style="width:40%">
+
+---
+
+Why did many states advance the same proposals at the same time? 
+
+<img src="https://fdslive.oup.com/covers/gab/180-0-72-jpg-RGB-85/9780190870799.jpg" alt="tate Capture book cover" style="width:40%">
+
+$\rightarrow$ Agenda coordination by Americans for Prosperity (AFP), the American Legislative Exchange Council (ALEC), and the State Policy Network (SPN).
+
+::: {.notes}
+(Romer and Rosenthal 1978; Kingdon 1984; Baumgartner and Jones 1993)
+:::
+
+---
+
+
+### Political intermediaries
+
+- protest & advocacy campaigns (Gillion 2013, 2020; Woodly 2021)
+- social & syndicalist organizations (Ansell 2001)
+- local politicians (Schickler 2016)
+- parties (Schickler 2016)
+
+###  Intersections of state and society 
+
+- petitioning
+- complaint-making
+- grievance mechanisms
+- public comment
+- hearings
+
+
+## (potentially) Agenda-democratizing processes and institutions {.nonincremental}
+
+::: {.nonincremental}
+- petitions
+- protests
+- advocacy campaigns 
+- organized political collectives (e.g., labor unions)
+- non-electoral elite interventions (e.g., courts)
+:::
+Many begin as attempts to address issues of non-democracy in agenda setting, but campaigns may also be illiberal or anti-democratic.
+
+
+
+## Success 
+
+“success” of these campaigns should consider not merely whether they changed policy or laws in the short run, but whether they shifted agendas and discourse 
+
+---
+
+## Equality 
+
+Equality in lawmaking 
+
+vs.
+
+Equality in deliberation and voice 
+
+
+<!--
+
+Gillion
+
+---
+
+(Lee 2002, Schickler 2016; Gillion 2020; Carpenter 2021; LaGause 2022)
+
+-->
+
+<!--
+
+# Questions 
+
+##  “Agenda democracy” 
+
+> Who are "the people" and what is their agenda? 
+
+> Is it even possible to achieve?
+
+> What exactly would a permanent deviation from the people's agenda look like?
+
+> What process would allow you to capture what “the majority” of the public believes should be escalated to the top? 
+
+
+## "The people" (continued) 
+
+> Carpenter points to the importance of convening a representative group of stakeholders to devise policy solutions that directly reflect the people's concerns. In the case of the Great Lakes, what would it mean to develop an operative agenda created in the interest of those directly impacted? Would the outcomes still lean into commerce and recreation, or would they skew toward sustainability and environmental justice?
+
+- a referendum before turning the Great Lakes “into an angler playground”?
+- vs. "the greatest good for the greatest number for the longest period of time?"
+
+::: {.notes}
+- How does Tanner or Applegate's policy work implicate democracy differently? 
+:::
+
+## Safegaurds
+
+> Does Carpenter believe that certain agenda-restricting mechanisms should remain to prevent malicious/antiliberal actors from using petitions, complaint forums, and other agenda-democratizing systems to harm their fellow citizens, when “social-shaming or democratic-republican virtue” does not work?
+
+> Do we have adequate safeguards in place to allow for unlimited agenda democracy while safeguarding foundational liberal values and principles? Are the courts and constitution enough?
+
+---
+
+##  How to set the agenda 
+
+> If you are trying to make changes to a policy agenda, do you always need to democratize agenda setting?
+
+## How to reform institutions 
+
+> There is often a pushback against protest through the lens of civility. How should those seeking to democratize the agenda react to the civility critique?
+
+> How can environmental concerns have more stake in agenda-setting
+
+<!-- depends on what you are trying to do  --> 
+ 
+<!--
+## Authority 
+
+ Do you think the state of Michigan had the authority to introduce the coho and chinook salmon to the Great Lakes?
+ 
+ Should one (unelected) state official have the ability to make such impactful decisions?
+ 
+ - one official vs. many veto points 
+ 
+## Federalism 
+ Since the introduction of the salmon undeniably affected commerce, shouldn't the House or another federal agency have been in charge of what species are introduced to any of the lakes? 
+-->
+
+
+
+## Agenda vs. "logic of appropriateness" (March and Olson)/"third face of power" (Lukes)/"ideological power" 
+
+<!--
+> Won't the kinds of things Carpenter brings up that have the possibility of democratizing agenda---party transformation, claims-making, public demonstration, bargaining, etc.---also possibly have the impact of changing some core preferences?
+--> 
+ 
+ 1. As Forester says, movements do shape preferences ("constituencies") by setting the horizon of the possible 
+ 
+ 2. In Carpenter's world, agenda power is not so much about true or false consciousness.
+ 
+   - Lukes understands ideological power similar to Marx's idea of "false consciousness" such that ideological work is either emancipatory or manipulative, judged by some objective material standard.
