@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+  # render:
+  #   - "/docs/*.qmd"
+
+website:
+  title: "PubPol 475/750 Protest, Social Movements, Art, and Policy Change"
+  navbar:
+    left:
+      - href: syllabus.qmd
+        text: Syllabus
+      - href: assignments.qmd
+        text: Assignment Guide
+
+format:
+ html:
+   toc: true
+   toc-location: left
+   theme: michigan.scss
+   css: styles.css
+
+
+number-depth: 3
+
+# bibliography: assets/congress.bib

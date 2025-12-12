@@ -3,4 +3,3 @@
 
 # - [Syllabus and assigment guide](https://judgelord.github.io/PP475-750)
 
-![](docs/logo.png)
