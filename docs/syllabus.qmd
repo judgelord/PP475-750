@@ -455,7 +455,7 @@ There are many "further" readings, and some required readings (especially the lo
 
 
 
-## Week 1: Orientation
+## Week 2: Orientation
 
 ### Tuesday: Introductions and Syllabus Review 
 
@@ -470,7 +470,7 @@ There are many "further" readings, and some required readings (especially the lo
 ::: 
 
 
-### Tuesday: in-class [best-practices exercise](best-practices.html)
+### Thursday: in-class [best-practices exercise](best-practices.html)
 
 - What are you hoping to get out of this semester?
 - What aspects of the discussion environment will help achieve these goals? 
@@ -481,7 +481,7 @@ There are many "further" readings, and some required readings (especially the lo
  > To Discuss: Schlozman, D. J. (2015). When movements anchor parties: Electoral alignments in American history. Princeton University Press. (Introduction, 1-13)
  
 
-## Week 2: Opportunity Structure and Issue Framing
+## Week 3: Opportunity Structure and Issue Framing
 
 - To what extent have climate movements been effective, and why?
 - To what extent are the underlying features of U.S. climate politics outlined by McAdam in 2017 still true? 
@@ -507,29 +507,13 @@ There are many "further" readings, and some required readings (especially the lo
 
 > To Discuss: Research: [Chapter 1. Deva Woodly. 2015. The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance, Oxford University Press.](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&lang=en&)
 
-## Week 3: Efficiency and Welfare
+## Week 4: Efficiency and Welfare
 
 ### Tuesday
 
 > Stone, Chapter 3-4: Efficiency and Welfare
 
 > Woodly: Chapter Two: A Tale of Two Movements - Living Wage
-
-### Thursday 
-
-> TBD 
-
-<!-- Labor?--> 
-
-
-## Week 4: Equity and Equality
-
-### Tuesday
-
-> Stone, Chapter 2: Equity
-
-> Woodly, Chapter Three: A Tale of Two Movements- Marriage Equality
-
 
 
 ### Thursday at UMMA 
@@ -538,7 +522,22 @@ There are many "further" readings, and some required readings (especially the lo
 
 
 
-## Week 5: Theories of Change
+
+## Week 5: Equity and Equality
+
+### Tuesday
+
+> Stone, Chapter 2: Equity
+
+> Woodly, Chapter Three: A Tale of Two Movements- Marriage Equality
+
+### Thursday 
+
+> TBD
+
+
+
+## Week 6: Theories of Change
 
 ### Tuesday 
 
@@ -558,7 +557,7 @@ There are many "further" readings, and some required readings (especially the lo
 Movement demands (Sanders 1999; Htun & Weldon 2012; 2022; Sinha 2016; Thurston 2018; Forrester 2022; Tarrow 2022) 
 :::
 
-## Week 6:  The Tea Party
+## Week 7:  The Tea Party
 
 ### Tuesday
 
@@ -575,7 +574,7 @@ Movement demands (Sanders 1999; Htun & Weldon 2012; 2022; Sinha 2016; Thurston 2
 > SKIM [Do Political Protests Matter? Evidence from the Tea Party Movement](https://scholar.harvard.edu/files/shoag/files/dopoliticalprotestsmatterevidencef_preview.pdf) The *Quarterly Journal of Economics*, Volume 128, Issue 4, November 2013, Pages 1633–1685 <https://doi.org/10.1093/qje/qjt021>
 
 
-## Week 7: Vehicles 
+## Week 8: Vehicles 
 
 ### Tuesday: Social movement organizations, grass roots, and grass tops
 
@@ -602,20 +601,6 @@ Movement demands (Sanders 1999; Htun & Weldon 2012; 2022; Sinha 2016; Thurston 2
 - Skocpol 2006
 :::
 
-## Week 8 Civil Rights
-
-### Tuesday 
-
-> Stone, Chapter 15: Rights 
-
-> McAdam, D. (1999). Political process and the development of Black insurgency, 1930-1970 (2nd ed.). University of Chicago Press.
- (p. TBD)
-
-
-### Thursday
-
-> McAdam, D. (1999). Political process and the development of Black insurgency, 1930-1970 (2nd ed.). University of Chicago Press.
- (p. TBD)
 
 
 
@@ -651,36 +636,46 @@ Russian Musicians Get Third 13-Day Jail Term Over Performing Anti-War Songs [NYT
 
 
 
+## Week 10 Civil Rights
+
+### Tuesday 
+
+> Stone, Chapter 15: Rights 
+
+> McAdam, D. (1999). Political process and the development of Black insurgency, 1930-1970 (2nd ed.). University of Chicago Press.
+ (pgs. TBD)
+
+
+### Thursday
+
+> McAdam, D. (1999). Political process and the development of Black insurgency, 1930-1970 (2nd ed.). University of Chicago Press.
+ (p. TBD)
+
 
 <!--- ### Week 10: Labor (IF I DELETE CLIMATE CHANGE AND PUSH EVERYTHING BACK)---> 
 
 
-## Week 10: Anti-communism 
+## Week 11: Anti-communism | Anti-war
 
 <!--
 https://npr.brightspotcdn.com/dims3/default/strip/false/crop/744x768+0+0/resize/900/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0f%2F43%2F8e78fd594b2c97adb997a3a43af1%2Fwecantdigest.jpg
 --> 
 
-### Tuesday 
+### Tuesday: Anti-communism 
 
 > Stone, Chapter 16: Powers 
 
 > Schlozman, D. J. (2015). When Movements Anchor Parties: Electoral Alignments in American History. Princeton University Press, Chapter 4 (77-107)
 
-### Thursdy
-
-> TBD
 
 ::: {.callout-note collapse="true" title="Further reading"}
 - [Black Struggle, Red Scare: Segregation and Anti-Communism in the South, 1948--1968](https://www.google.com/books/edition/Black_Struggle_Red_Scare/gGpMrxnZZHEC?hl=en&gbpv=1&dq=anti+communism&pg=PP11&printsec=frontcover)
 - [*Anti-communism and popular culture in mid-century America* by Cynthia Hendershot](https://www.google.com/books/edition/Anti_Communism_and_Popular_Culture_in_Mi/RSy1CgAAQBAJ?hl=en&gbpv=1&dq=anti+communism&pg=PP1&printsec=frontcover)
 :::
 
-## Week 11: Anti-war 
+### Thursday: Anti-war 
 
 > Heaney, M. T., & Rojas, F. (2015). Party in the street: The antiwar movement and the Democratic Party after 9/11. Cambridge University Press. (p. TBD)
-
-### Thursday 
 
 Guest speaker
 
