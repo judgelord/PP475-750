@@ -10,6 +10,8 @@ website:
         text: Syllabus
       - href: assignments.qmd
         text: Assignment Guide
+      - href: art
+        text: Art
       # - href: slides
       #   text: Slides
 

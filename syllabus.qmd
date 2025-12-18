@@ -228,14 +228,33 @@ Below is the schedule of due dates.
 
 ### Introductions (1%)
 
-- Week 1 (Monday): Introduce yourself to the class with a short (20-30 second) video---feel free to be creative (1%) 
+- Week 1: Introduce yourself to the class with a short (20-30 second) video---feel free to be creative (1%) 
+
+### Inspiration
+
+- Week 1: A list of **six** policies you would like to see changed, **3** organizations working to create each policy change, and one example of [ephemera](https://en.wikipedia.org/wiki/Ephemera) from each organization. (1%)^[Most organizations have an email list---I suggest signing up, both for the assignments in this class and your future career.] The plan is that you will work on these for the rest of the semester, so pick causes for which you want to make art!
+
+> 6 policies
+>
+>   - 3 organizations are working to create each policy change
+>       - 1 stable URL to an example of ephemera from each organization's effort to change that policy 
+>
+> (a total of 18 examples of art or graphic design aimed at policy change)
+     
+See template for this assignment in the [assignment guide](assignments)
+
+The aim of this assignment is
+
+1. To start thinking about policy changes that you might work to advance
+2. To start to understand the organizational vehicles (Week 8) operating in that political space
+3. To generate a corpus of example ephemera aimed at policy change for the class; the rest of the assignments will be about creating your own.
 
 ### Find your voice - 27% of final grade
 
 In the first third of the class, you develop six exhibition ideas and attempt to write a theory of change for each. 
 
-- Week 1: A list of **six** policies you would like to see changed, **3** organizations working to create each policy change, and one example of [ephemera](https://en.wikipedia.org/wiki/Ephemera) from each organization. (1%)^[Most organizations have an email list---I suggest signing up, both for the assignments in this class and your future career.] 
-- Week 2: **six** 200-word **theories of change** (see [assignment guide](assignments)) for each of **six** of the ephemera from week one, **one** for each policy (in-class peer workshop) (1%) 
+
+- Week 2: **Six** 200-word **theories of change** (see [assignment guide](assignments)) for each of **six** of the ephemera from week one, **one** for each policy (1%) 
 - Week 3: **Six** original sketches, **one** for each policy + a 200-word theory of change for each + annotated bibliography in footnotes (1%) 
 - Week 4:  Peer critiques (2%)
   - UMMA visit
