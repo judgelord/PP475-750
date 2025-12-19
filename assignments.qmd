@@ -44,7 +44,7 @@ The aim of this assignment is:
 
 #### Assignment 1 Template
 
-Policy 1: 
+Policy 1: [Policy change]
 
 - Organization 1a: [NAME]
     - Organization Home Page: [URL]
@@ -58,7 +58,7 @@ Policy 1:
     
 ...
 
-Policy 6: 
+Policy 6: [Policy change]
 
 - Organization 6a: [NAME]
     - Organization Home Page: [URL]

@@ -5,4 +5,83 @@ listing:
   type: grid
   sort: "date desc"
   date-format: medium
+  id: art
+format: 
+  html:  
+    toc-title: "Contents"
 ---
+
+# Art Collections and Exhibitions
+
+::: {#art}
+:::
+
+# Film
+
+## Dramatization 
+::: {layout="[[1,1,1]]"}
+
+{{< video https://www.youtube.com/watch?v=GYOW1S7CJhc title="Fox Nation: Liberty or Death" >}}
+
+{{< video https://youtu.be/EFIw_yiWZ88 title="Walkout" >}}
+
+{{< video https://www.youtube.com/watch?v=kPgs2zshD9Y title="Selma" >}}
+
+{{< video https://www.youtube.com/watch?v=FVb6EdKDBfU title-"The Trial of the Chicago 7" >}}
+
+{{< video https://www.youtube.com/watch?v=zeo-q-8MOQ4 title="Cesar Chavez" >}}
+
+<!--
+{{< video https://www.youtube.com/watch?v=IrDpd4sCswY title="Bread and Roses" >}} <!---https://www.youtube.com/watch?v=0sV0pMi2kiQ--> 
+
+<!--{{< video https://www.youtube.com/watch?v=90mqG8I2xR0 title="Medium Cool" >}}--> 
+
+:::
+
+
+
+## US Documentary
+
+::: {layout="[[1,1,1]]"}
+
+
+{{< video https://www.youtube.com/watch?v=IY-LWpby-aU title="The Walkout" >}}
+
+{{< video https://youtu.be/6PfaE4R4eA4 title="Harlan County USA" >}}
+
+{{< video https://youtu.be/TFkJPCdmnsM title="Banned Together" >}}
+
+{{< video https://youtu.be/_0Uj1kYfsYQ title="Cured" >}}
+
+{{< video https://youtu.be/x9JTtfXI_YI title="Storming Caesars Palace" >}}
+
+{{< video https://youtu.be/JCE-keWeTd0 title="Lowndes County and the Road to Black Power" >}}
+
+{{< video https://youtu.be/aK_ALMA1NMk title="Takeover" >}}
+
+{{< video https://youtu.be/ZCeQuRTbCgE title="The First Rainbow Coalition" >}}
+
+{{< video https://youtu.be/xzRUwwRQzVc title="At the River I Stand" >}}
+
+{{< video https://youtu.be/xfs8zy1pYjs title="Your Got To Move" >}}
+
+{{< video https://vimeo.com/643322144?fl=pl&fe=cm title="Necessity: Oil, Water and Climate Resistance" >}}
+
+:::
+
+## International Documentary
+
+::: {layout="[[1,1,1]]"}
+
+{{< video https://www.youtube.com/watch?v=qEiywFC3tqk title="Bread and Roses" >}}
+
+{{< video https://www.youtube.com/watch?v=5HkYrA3fg_U title="Rosa Luxemburg (1986)" >}} <!--https://ok.ru/video/6665770961506--> 
+
+:::
+
+# Suggestions
+
+ Nothing on this page is required course content. It is merely a lightly curated collection of links to potentially helpful reference material. I welcome suggestions: 
+
+<div style="margin: 0 auto;"> <iframe src="
+https://docs.google.com/forms/d/e/1FAIpQLSdkSGGiUz25PLIaohYTiwmtph9z7nM2-eFp7ReKqvglAxDuSQ/viewform?embedded=true" width="100%" frameborder="0" marginheight="0" marginwidth="0"> Loading… </iframe> </div>
