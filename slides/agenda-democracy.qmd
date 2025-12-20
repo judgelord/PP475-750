@@ -1,7 +1,7 @@
 ---
 title: "Agenda Democracy"
 subtitle: ""
-date: today
+date: "" # today
 author: "Daniel Carpenter"
 image: "https://i.dailymail.co.uk/1s/2018/12/03/22/6966396-6443603-image-a-50_1543877436973.jpg"
 format: 

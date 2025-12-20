@@ -1,7 +1,7 @@
 ---
 title: "Politics: The Central Texts"
 author: "Roberto Mangabeira Unger"
-date: today
+date: "" # today
 image: "https://f.i.uol.com.br/fotografia/2023/06/10/16864159696484aa6102272_1686415969_3x2_rt.jpg"
 subtitle: ""
 title-slide-attributes:

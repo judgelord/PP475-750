@@ -2,7 +2,7 @@
 title: "The Politics of Common Sense"
 subtitle: "How Social Movements Use Public Discourse to Change Politics and Win Acceptance"
 author: "Deva Woodly"
-date: today
+date: "" # today
 image: "https://workersunited.org/uploads/attachments/ckv89jtbt0058oldzbrd4mewk-fredsign.full.png"
 format: 
   revealjs:

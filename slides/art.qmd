@@ -1,6 +1,6 @@
 ---
 title: "Movement Art"
-date: today
+date: "" # today
 image: "https://umma.umich.edu/wp-content/uploads/2025/09/Hana-Hamplova-triptych.jpg"
 subtitle: ""
 title-slide-attributes:
