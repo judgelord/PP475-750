@@ -31,6 +31,22 @@ format:
 
 {{< video https://www.youtube.com/watch?v=zeo-q-8MOQ4 title="Cesar Chavez" >}}
 
+{{< video https://www.youtube.com/watch?v=l6Ro8dvYpsM title-"Salt of the Earth" >}} <!--https://www.youtube.com/watch?v=sk3-As0yh3k--> 
+
+{{< video https://www.youtube.com/watch?v=Cjh29QNKLCc title="Matewan (1987)" >}}
+
+{{< video https://www.youtube.com/watch?v=F64dUVAaQV8 title="On Sacred Ground (2023)" >}}
+
+{{< video https://www.youtube.com/watch?v=s1ppx-ARSDM title="Chile `76" >}}
+
+{{< video https://www.youtube.com/watch?v=Qt9ifpe8bpQ title="Stonewall (1995)" >}}
+
+{{< video https://www.youtube.com/watch?v=LGEJmPwB4yI title="Stonewall (2015)" >}} 
+
+### Reviews: 
+
+- [Review: ‘Stonewall’ (2015) Doesn’t Distinguish Between Facts and Fiction - NYT](https://www.nytimes.com/video/movies/100000003935520/movie-review-stonewall.html?smid=url-share)
+
 <!--
 {{< video https://www.youtube.com/watch?v=IrDpd4sCswY title="Bread and Roses" >}} <!---https://www.youtube.com/watch?v=0sV0pMi2kiQ--> 
 
@@ -66,6 +82,10 @@ format:
 {{< video https://youtu.be/xfs8zy1pYjs title="Your Got To Move" >}}
 
 {{< video https://vimeo.com/643322144?fl=pl&fe=cm title="Necessity: Oil, Water and Climate Resistance" >}}
+
+{{< video https://www.youtube.com/watch?v=QcE6CdR60NY title="Hearts and Minds" >}}
+
+{{< video https://www.youtube.com/watch?v=SLwE45vd80A title="Stonewall Uprising (PBS)"}}
 
 :::
 

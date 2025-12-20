@@ -100,35 +100,6 @@ ul.task-list li input[type="checkbox"] {
   })
   </script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -182,9 +153,7 @@ window.Quarto = {
   <ul class="collapse">
   <li><a href="#dramatization" id="toc-dramatization" class="nav-link" data-scroll-target="#dramatization">Dramatization</a></li>
   <li><a href="#us-documentary" id="toc-us-documentary" class="nav-link" data-scroll-target="#us-documentary">US Documentary</a></li>
-  <li><a href="#international-documentary" id="toc-international-documentary" class="nav-link" data-scroll-target="#international-documentary">International Documentary</a></li>
   </ul></li>
-  <li><a href="#suggestions" id="toc-suggestions" class="nav-link" data-scroll-target="#suggestions">Suggestions</a></li>
   </ul>
 </nav>
 </nav>
@@ -201,72 +170,7 @@ window.Quarto = {
 <section id="art-collections-and-exhibitions" class="level1">
 <h1>Art Collections and Exhibitions</h1>
 <div id="listing-art" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1766169575414" data-listing-reading-time-sort="1" data-listing-word-count-sort="133">
-<a href="../art/bpl.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://d4804za1f1gw.cloudfront.net/wp-content/uploads/sites/30/2025/09/Among-the-works-featured-in-the-exhibition-edited.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title" data-anchor-id="art-collections-and-exhibitions">
-Boston Public Library - Revolution!
-</h5>
-<div class="card-text listing-description delink">
-The history of the United States was shaped by ordinary people undertaking extraordinary acts. Two hundred and fifty years after the Revolutionary War and the signing of the…
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
 
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1766155870574" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
-<a href="../art/sunday.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://thirdact.org/wp-content/uploads/2025/06/sun-day-ta-1000x600-1-orange.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-SunDay.earth
-</h5>
-<div class="card-text listing-description delink">
-https://www.sunday.earth/gallery
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1766169575453" data-listing-reading-time-sort="1" data-listing-word-count-sort="101">
-<a href="../art/umma.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://umma.umich.edu/wp-content/uploads/2025/10/Hannah-Hamplova-triptych2.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-UMMA - American Sampler
-</h5>
-<div class="card-text listing-description delink">
-Activating the Archive looks back to a period when protest reshaped the nation. MacArthur Fellow Julie Ault brings together artworks, archival documents, and rare ephemera…
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
 </div>
 </section>
 <section id="film" class="level1">
@@ -293,11 +197,39 @@ Activating the Archive looks back to a period when protest reshaped the nation. 
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/zeo-q-8MOQ4" title="Cesar Chavez" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
-<!--
- <!---https://www.youtube.com/watch?v=0sV0pMi2kiQ-->
+<p></p><div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/l6Ro8dvYpsM" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div> <!--https://www.youtube.com/watch?v=sk3-As0yh3k--><p></p>
 </div>
 </div>
 <div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/Cjh29QNKLCc" title="Matewan (1987)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/F64dUVAaQV8" title="On Sacred Ground (2023)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/s1ppx-ARSDM" title="Chile `76" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/Qt9ifpe8bpQ" title="Stonewall (1995)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/LGEJmPwB4yI" title="Stonewall (2015)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</div>
+<section id="reviews" class="level3 quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<h3 class="anchored" data-anchor-id="reviews">Reviews:</h3>
+<ul>
+<li><a href="https://www.nytimes.com/video/movies/100000003935520/movie-review-stonewall.html?smid=url-share">Review: ‘Stonewall’ (2015) Doesn’t Distinguish Between Facts and Fiction - NYT</a></li>
+</ul>
+</section>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<!--
+ <!---https://www.youtube.com/watch?v=0sV0pMi2kiQ-->
+</div>
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <!---->
 </div>
@@ -347,33 +279,12 @@ Activating the Archive looks back to a period when protest reshaped the nation. 
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://player.vimeo.com/video/643322144?fl=pl&amp;fe=cm" frameborder="0" title="Necessity: Oil, Water and Climate Resistance" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe></div>
 </div>
-</div>
-</div>
-</section>
-<section id="international-documentary" class="level2">
-<h2 class="anchored" data-anchor-id="international-documentary">International Documentary</h2>
-<div class="quarto-layout-panel" data-layout="[[1,1,1]]">
-<div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/qEiywFC3tqk" title="Bread and Roses" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
-<p></p><div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/5HkYrA3fg_U" title="Rosa Luxemburg (1986)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div> <!--https://ok.ru/video/6665770961506--><p></p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/QcE6CdR60NY" title="Hearts and Minds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 </div>
 </div>
 </div>
 </section>
-</section>
-<section id="suggestions" class="level1">
-<h1>Suggestions</h1>
-<p>Nothing on this page is required course content. It is merely a lightly curated collection of links to potentially helpful reference material. I welcome suggestions:</p>
-<div style="margin: 0 auto;">
-<iframe src="
-https://docs.google.com/forms/d/e/1FAIpQLSdkSGGiUz25PLIaohYTiwmtph9z7nM2-eFp7ReKqvglAxDuSQ/viewform?embedded=true" width="100%" height="900" frameborder="0" marginheight="0" marginwidth="0"> Loading… </iframe>
-</div>
-
-
-
 </section>
 
 </main> <!-- /main -->
