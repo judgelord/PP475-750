@@ -1,0 +1,11 @@
+---
+title: "COUNTERFEIT NEWS"
+subtitle: ""
+format: html
+image: https://www.kellianderson.com/projects/assets/images/project_images/newspaper1.jpg
+---
+
+[![](https://www.kellianderson.com/projects/assets/images/project_images/newspaper1.jpg)](https://www.kellianderson.com/projects/fakenewspapers.html)
+
+
+

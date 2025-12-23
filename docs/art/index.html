@@ -100,6 +100,35 @@ ul.task-list li input[type="checkbox"] {
   })
   </script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -153,7 +182,9 @@ ul.task-list li input[type="checkbox"] {
   <ul class="collapse">
   <li><a href="#dramatization" id="toc-dramatization" class="nav-link" data-scroll-target="#dramatization">Dramatization</a></li>
   <li><a href="#us-documentary" id="toc-us-documentary" class="nav-link" data-scroll-target="#us-documentary">US Documentary</a></li>
+  <li><a href="#international-documentary" id="toc-international-documentary" class="nav-link" data-scroll-target="#international-documentary">International Documentary</a></li>
   </ul></li>
+  <li><a href="#suggestions" id="toc-suggestions" class="nav-link" data-scroll-target="#suggestions">Suggestions</a></li>
   </ul>
 </nav>
 </nav>
@@ -170,7 +201,177 @@ ul.task-list li input[type="checkbox"] {
 <section id="art-collections-and-exhibitions" class="level1">
 <h1>Art Collections and Exhibitions</h1>
 <div id="listing-art" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1766169575414" data-listing-reading-time-sort="1" data-listing-word-count-sort="133">
+<a href="../art/bpl.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://d4804za1f1gw.cloudfront.net/wp-content/uploads/sites/30/2025/09/Among-the-works-featured-in-the-exhibition-edited.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title" data-anchor-id="art-collections-and-exhibitions">
+Boston Public Library - Revolution!
+</h5>
+<div class="card-text listing-description delink">
+The history of the United States was shaped by ordinary people undertaking extraordinary acts. Two hundred and fifty years after the Revolutionary War and the signing of the…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
 
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1766527914542" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="../art/can-do-it.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://creativeaction.network/cdn/shop/articles/We-Can-Do-It-Grid_c4042fd5-143e-4a9f-86ec-3ff8f9e728f3_800x.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+We Can Do It!
+</h5>
+<div class="card-text listing-description delink">
+https://creativeaction.network/collections/we-can-do-it
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1766526415891" data-listing-reading-time-sort="1" data-listing-word-count-sort="22">
+<a href="../art/can-dream.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://images.squarespace-cdn.com/content/v1/5919e1133a0411c1025b58c6/1494887442617-0N7QNP8F9FPEROX7PLCN/poster+mock-up.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+What Makes American Great
+</h5>
+<div class="card-text listing-description delink">
+A collection of designs celebrating the things that artists believe make America truly great organized by DreamCorps.
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1766526413567" data-listing-reading-time-sort="1" data-listing-word-count-sort="10">
+<a href="../art/can-sunrise.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://creativeaction.network/cdn/shop/products/invest-in-green-energy-by-marc-osborne-12-by-16-print-unframed-print-green-new-deal-6951686471783_2048x.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Green New Deal
+</h5>
+<div class="card-text listing-description delink">
+A collection organized by Sunrise Movement.
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1766527483912" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="../art/kellianderson.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://www.kellianderson.com/projects/assets/images/project_images/newspaper1.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+COUNTERFEIT NEWS
+</h5>
+<div class="card-text listing-description delink">
+
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1766525610699" data-listing-reading-time-sort="2" data-listing-word-count-sort="359">
+<a href="../art/labor.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://i.thriftbooks.com/api/imagehandler/l/D17896053CC5D46842CBFE6C02CB067B1F60F303.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+American Labor Posters
+</h5>
+<div class="card-text listing-description delink">
+“We seek to inform as well as to celebrate. The best posters about American workers and the jobs at which they labor make up a visually fascinating body of work that rewards…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+Lincoln Cushing and Timothy W. Drescher.
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1766155870574" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
+<a href="../art/sunday.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://thirdact.org/wp-content/uploads/2025/06/sun-day-ta-1000x600-1-orange.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+SunDay.earth
+</h5>
+<div class="card-text listing-description delink">
+https://www.sunday.earth/gallery
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1766169575453" data-listing-reading-time-sort="1" data-listing-word-count-sort="101">
+<a href="../art/umma.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://umma.umich.edu/wp-content/uploads/2025/10/Hannah-Hamplova-triptych2.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+UMMA - American Sampler
+</h5>
+<div class="card-text listing-description delink">
+Activating the Archive looks back to a period when protest reshaped the nation. MacArthur Fellow Julie Ault brings together artworks, archival documents, and rare ephemera…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
 </div>
 </section>
 <section id="film" class="level1">
@@ -283,8 +484,37 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/QcE6CdR60NY" title="Hearts and Minds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 </div>
 </div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/SLwE45vd80A" title="Stonewall Uprising (PBS)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</div>
+</div>
 </div>
 </section>
+<section id="international-documentary" class="level2">
+<h2 class="anchored" data-anchor-id="international-documentary">International Documentary</h2>
+<div class="quarto-layout-panel" data-layout="[[1,1,1]]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/qEiywFC3tqk" title="Bread and Roses" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<p></p><div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/5HkYrA3fg_U" title="Rosa Luxemburg (1986)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div> <!--https://ok.ru/video/6665770961506--><p></p>
+</div>
+</div>
+</div>
+</section>
+</section>
+<section id="suggestions" class="level1">
+<h1>Suggestions</h1>
+<p>Nothing on this page is required course content. It is merely a lightly curated collection of links to potentially helpful reference material. I welcome suggestions:</p>
+<div style="margin: 0 auto;">
+<iframe src="
+https://docs.google.com/forms/d/e/1FAIpQLSdkSGGiUz25PLIaohYTiwmtph9z7nM2-eFp7ReKqvglAxDuSQ/viewform?embedded=true" width="100%" height="900" frameborder="0" marginheight="0" marginwidth="0"> Loading… </iframe>
+</div>
+
+
+
 </section>
 
 </main> <!-- /main -->

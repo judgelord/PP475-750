@@ -52,7 +52,7 @@ Policy 1: [Policy change]
 - Organization 1b: [NAME]
     - Organization Home Page: [URL]
     - Example ephemera: [stable URL to .png or .jpg]
-- Organization 3c: [NAME]
+- Organization 1c: [NAME]
     - Organization Home Page: [URL]
     - Example ephemera: [stable URL to .png or .jpg]
     
