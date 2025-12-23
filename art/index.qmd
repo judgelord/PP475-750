@@ -19,6 +19,7 @@ format:
 # Film
 
 ## Dramatization 
+
 ::: {layout="[[1,1,1]]"}
 
 {{< video https://www.youtube.com/watch?v=GYOW1S7CJhc title="Fox Nation: Liberty or Death" >}}
@@ -85,7 +86,7 @@ format:
 
 {{< video https://www.youtube.com/watch?v=QcE6CdR60NY title="Hearts and Minds" >}}
 
-{{< video https://www.youtube.com/watch?v=SLwE45vd80A title="Stonewall Uprising (PBS)"}}
+{{< video https://www.youtube.com/watch?v=SLwE45vd80A title="Stonewall Uprising (PBS)" >}}
 
 :::
 
