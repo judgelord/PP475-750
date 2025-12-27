@@ -1,6 +1,6 @@
 ---
 title: "Green New Deal"
-subtitle: ""
+# subtitle: ""
 format: html
 image: https://creativeaction.network/cdn/shop/products/invest-in-green-energy-by-marc-osborne-12-by-16-print-unframed-print-green-new-deal-6951686471783_2048x.jpg
 ---

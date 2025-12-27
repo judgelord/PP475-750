@@ -1,6 +1,6 @@
 ---
 title: "What Makes American Great"
-subtitle: ""
+# subtitle: ""
 format: html
 image: https://images.squarespace-cdn.com/content/v1/5919e1133a0411c1025b58c6/1494887442617-0N7QNP8F9FPEROX7PLCN/poster+mock-up.png
 ---

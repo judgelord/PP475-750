@@ -1,6 +1,7 @@
 ---
 title: "COUNTERFEIT NEWS"
-subtitle: ""
+#subtitle: ""
+author: Kelli Anderson
 format: html
 image: https://www.kellianderson.com/projects/assets/images/project_images/newspaper1.jpg
 ---
@@ -9,3 +10,4 @@ image: https://www.kellianderson.com/projects/assets/images/project_images/newsp
 
 
 
+<https://www.kellianderson.com/projects/fakenewspapers.html>

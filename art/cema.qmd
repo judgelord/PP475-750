@@ -1,0 +1,14 @@
+---
+title: "California Ethnic & Multicultural Archives"
+# subtitle: "Social Justice Posters of the San Francisco Bay Area"
+author: UC Santa Barbara
+format: html
+image: https://www.library.ucsb.edu/sites/default/files/imagecache/large_align_center/images/special-collections/cema/UW%20MECHA-1-ANTI-WAR%20MARCH-WW.jpg
+---
+
+[![](https://www.library.ucsb.edu/sites/default/files/imagecache/large_align_center/images/special-collections/cema/UW%20MECHA-1-ANTI-WAR%20MARCH-WW.jpg)](https://www.library.ucsb.edu/special-collections/collections/cema)
+
+
+
+
+<https://www.library.ucsb.edu/special-collections/collections/cema>

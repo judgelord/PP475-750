@@ -6,6 +6,7 @@ listing:
   sort: "date desc"
   date-format: medium
   id: art
+  max-description-length: 80
 format: 
   html:  
     toc-title: "Contents"
@@ -24,17 +25,23 @@ format:
 
 {{< video https://www.youtube.com/watch?v=GYOW1S7CJhc title="Fox Nation: Liberty or Death" >}}
 
+{{< video https://www.youtube.com/watch?v=WgUIP4dnR64 title="The Cradle Will Rock" >}}
+
 {{< video https://youtu.be/EFIw_yiWZ88 title="Walkout" >}}
 
 {{< video https://www.youtube.com/watch?v=kPgs2zshD9Y title="Selma" >}}
 
 {{< video https://www.youtube.com/watch?v=FVb6EdKDBfU title-"The Trial of the Chicago 7" >}}
 
+{{< video https://youtu.be/nP9PpQ0TNjY title="Mrs. America" >}}
+
 {{< video https://www.youtube.com/watch?v=zeo-q-8MOQ4 title="Cesar Chavez" >}}
 
 {{< video https://www.youtube.com/watch?v=l6Ro8dvYpsM title-"Salt of the Earth" >}} <!--https://www.youtube.com/watch?v=sk3-As0yh3k--> 
 
 {{< video https://www.youtube.com/watch?v=Cjh29QNKLCc title="Matewan (1987)" >}}
+
+{{< video https://www.youtube.com/watch?v=s2kD-9QZOs4 title="Milk" >}}
 
 {{< video https://www.youtube.com/watch?v=F64dUVAaQV8 title="On Sacred Ground (2023)" >}}
 
@@ -61,10 +68,14 @@ format:
 
 ::: {layout="[[1,1,1]]"}
 
+{{< video https://www.youtube.com/watch?v=oOaeUbZ7ums title="Historic Protest Movements in Every Decade (History Channel)" >}}
+
 
 {{< video https://www.youtube.com/watch?v=IY-LWpby-aU title="The Walkout" >}}
 
 {{< video https://youtu.be/6PfaE4R4eA4 title="Harlan County USA" >}}
+
+{{< video https://youtu.be/-KBRp4Op4qI title="Remembering Phyllis Schlafly (The Heritage Foundation)" >}}
 
 {{< video https://youtu.be/TFkJPCdmnsM title="Banned Together" >}}
 

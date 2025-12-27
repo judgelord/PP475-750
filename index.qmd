@@ -7,6 +7,7 @@ format:
     toc: false
     theme: michigan.scss
 css: styles.css
+lightbox: true
 # title-block-banner: banner.png # "#001B35" # 
 # title: "Movement Art"
 # subtitle: ""
@@ -35,51 +36,63 @@ This class will be a collaboration with UMMA staff and their [American Sampler](
 
 ::: {layout="[[1,1,1]]"}
 
-![](https://imgc.artprintimages.com/img/print/vernon-lewis-gallery-u-s-history-print-of-the-statue-of-liberty-holding-up-a-burning-draft-card-instead-of-her-torch_u-l-q1r5lx60.jpg){fig-alt="Print of the statue of liberty holding up a burning draft card - Vernon Lewis Gallery"}
+![Vernon Lewis Gallery](https://imgc.artprintimages.com/img/print/vernon-lewis-gallery-u-s-history-print-of-the-statue-of-liberty-holding-up-a-burning-draft-card-instead-of-her-torch_u-l-q1r5lx60.jpg){fig-alt="Print of the statue of liberty holding up a burning draft card - Vernon Lewis Gallery"}
  
-![](https://i.pinimg.com/originals/39/c3/cf/39c3cf5aee32886531e47808dfb4b44f.jpg)
+![FIEST (2020)](https://i.pinimg.com/originals/39/c3/cf/39c3cf5aee32886531e47808dfb4b44f.jpg){fig-alt="Black Lives Matter by FIEST (2020)"}
  
-![](https://news.artnet.com/app/news-upload/2014/09/climate-change-march-fairey.jpg)
-:::
+![To Change Everything We Need Everyone poster by Shepard Fairey](https://sothebys-md.brightspotcdn.com/dims4/default/c727504/2147483647/strip/true/crop/1499x2000+0+0/resize/1024x1366!/quality/90/?url=http:%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F57%2Fd8%2Fe26159f449af81d8fe2639095e2f%2F043n10541-blxsn-01.jpg){fig-alt="2014 People's Climate March - To Change Everything We Need Everyone poster by Shepard Fairey"}
 
-
-
-
-::: {layout="[[1,1,1]]"}
-![](https://media.gettyimages.com/id/525595256/photo/members-and-supporters-of-the-tea-party-hold-a-rally-calling-for-the-repeal-of-president.jpg?s=612x612&w=0&k=20&c=VdAqWSU7ZdTmoYiRVJPbwXz9nyFl1eyRX9iXQZ4ToZk=){fig-alt="Getty"}
+![Tea Party Rally - Getty](https://media.gettyimages.com/id/525595256/photo/members-and-supporters-of-the-tea-party-hold-a-rally-calling-for-the-repeal-of-president.jpg?s=612x612&w=0&k=20&c=VdAqWSU7ZdTmoYiRVJPbwXz9nyFl1eyRX9iXQZ4ToZk=){fig-alt="Tea Party Rally - Getty"}
 
   
- ![](https://i5.walmartimages.com/seo/One-Nation-Under-God-Fourth-of-July-Shirt-Christian-American-Shirt-God-Bless-America-Pledge-Of-Allegiance-Independence-Day-Tee-Patriotic-Tee_0818676f-8c85-4dbe-b394-80acbdb527ba.c87ba2bc391dbfb98e2ecd4e4208fdc5.jpeg){fig-alt="One Nation Under God - WalMart.com"}
+ ![One Nation Under God - WalMart.com](https://i5.walmartimages.com/seo/One-Nation-Under-God-Fourth-of-July-Shirt-Christian-American-Shirt-God-Bless-America-Pledge-Of-Allegiance-Independence-Day-Tee-Patriotic-Tee_0818676f-8c85-4dbe-b394-80acbdb527ba.c87ba2bc391dbfb98e2ecd4e4208fdc5.jpeg){fig-alt="One Nation Under God - WalMart.com"}
 
 
- ![](https://upload.wikimedia.org/wikipedia/commons/6/62/Tea_Party_Protest_in_Dallas%2C_Texas_-_April%2C_2009.jpg){fig-alt="Tea Party Protest - Wikipedia"}
+ ![Tea Party Protest - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/6/62/Tea_Party_Protest_in_Dallas%2C_Texas_-_April%2C_2009.jpg){fig-alt="Tea Party Protest - Wikipedia"}
 
-![](https://www.yesmagazine.org/wp-content/uploads/imports/ad95049b3b3a41cab7fb49c82eefd803.jpg){fig-alt="Education makes American Great (2017) by David Hays - CAN collection"}
+![Education makes American Great (2017) by David Hays](https://www.yesmagazine.org/wp-content/uploads/imports/ad95049b3b3a41cab7fb49c82eefd803.jpg){fig-alt="Education makes American Great (2017) by David Hays - CAN collection"}
 
 
 ![](https://culturalpolitics.net/index/sites/default/files/inline-images/labor%20union%20women.jpg){fig-alt="Labor poster"}
 
-
 ![](https://culturalpolitics.net/index/sites/default/files/inline-images/labor%20movement.jpg){fig-alt="Labor poster"}
 
-![](https://www.artchive.com/wp-content/uploads/2023/04/Rosie-the-Riveter-Rockwell-Norman-1943-2.jpg){fig-alt="Rosie the Riveter (1943) by Norman Rockwell"}
 
-![](https://creativeaction.network/cdn/shop/articles/We-Can-Do-It-Grid_c4042fd5-143e-4a9f-86ec-3ff8f9e728f3_2048x.jpg){fig-alt="We can do it! poster - CAN collection"}
+![Rosie the Riveter (1943) by Norman Rockwell](https://www.artchive.com/wp-content/uploads/2023/04/Rosie-the-Riveter-Rockwell-Norman-1943-2.jpg){fig-alt="Rosie the Riveter (1943) by Norman Rockwell"}
+
+![We can do it! - CAN collection](https://creativeaction.network/cdn/shop/articles/We-Can-Do-It-Grid_c4042fd5-143e-4a9f-86ec-3ff8f9e728f3_2048x.jpg){fig-alt="We can do it! poster - CAN collection"}
+
+![Focus on the Family Pro-Life Signs](https://www.focusonthefamily.com/wp-content/uploads/2023/03/Screen-Shot-2023-03-24-at-9.35.10-AM.png){fig-alt="Focus on the Family Pro-Life Signs"}
+
+![Students for Life of America, University of North Texas Chapter](https://studentsforlife.org/wp-content/uploads/2023/10/Screen-Shot-2023-10-23-at-1.53.26-PM-min.jpg)
+
+
+
+
+![SNCC Poster: Come Let Us Build A New World Together by Danny Lyon](https://umma.umich.edu/wp-content/uploads/2025/10/Websize_SNCC_Danny-Lyon_come-let-us-build-a-new-world-together-617x485.jpg){fig-alt="SNCC Poster: Come Let Us Build A New World Together by Danny Lyon"}
+
+![Counterfit News by Kelli Anderson](https://www.kellianderson.com/projects/assets/images/project_images/newspaper1.jpg){fig-alt="COUNTERFEIT NEWS"}
 
 
 <!--
 
+![](https://www.docspopuli.org/images/06_0726_079.jpg){fig-alt="Justice for janitors in San Francisco, Kristin Prentice for SEIU Local 87, 1995; Inkworks Press Archive."}
 
-![WE do mind dying, Doug Minkler, 1980; Cushing Archive.](https://www.docspopuli.org/images/07_0209_059.jpg)
-
-![There is no prejudice in kids unless adults put it there, UAW Fair Practices Department, circa 1963; Reuther Archive.](https://www.docspopuli.org/images/07_0510_008.jpg)
+![](https://www.docspopuli.org/images/07_0209_059.jpg){fig-alt="WE do mind dying, Doug Minkler, 1980; Cushing Archive."}
 
 ![Protect yourself from this menace; IWW, circa 1921; Reuther Archive.](https://www.docspopuli.org/images/07_0510_041.jpg)
 
-
 ![I am somebody - together we are strong, United Farm Workers of America, circa 1977; Reuther Archive.](https://www.docspopuli.org/images/07_0510_035.jpg)
 
-![Justice for janitors in San Francisco, Kristin Prentice for SEIU Local 87, 1995; Inkworks Press Archive.](https://www.docspopuli.org/images/06_0726_079.jpg)
+
+![There is no prejudice in kids unless adults put it there, UAW Fair Practices Department, circa 1963; Reuther Archive.](https://www.docspopuli.org/images/07_0510_008.jpg)
+
+
+
+
+
 --> 
 
 :::
+
+![A detail from Diego Rivera’s Detroit Industry at the DIA. Photo: Getty Images](https://stories.vassar.edu/2016/assets/images/161116-hipsters-wall.jpg)

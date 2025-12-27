@@ -1,0 +1,15 @@
+---
+title: "Center for the Study of Political Graphics"
+#subtitle: "Activating the Archive"
+format: html
+image: https://static.wixstatic.com/media/2c4214_46cf0cee0c334819b18116d54e0423ca~mv2_d_3789_2712_s_4_2.jpg/v1/fill/w_1960,h_800,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2c4214_46cf0cee0c334819b18116d54e0423ca~mv2_d_3789_2712_s_4_2.jpg
+---
+
+[![](https://static.wixstatic.com/media/2c4214_46cf0cee0c334819b18116d54e0423ca~mv2_d_3789_2712_s_4_2.jpg/v1/fill/w_1960,h_800,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2c4214_46cf0cee0c334819b18116d54e0423ca~mv2_d_3789_2712_s_4_2.jpg)](https://www.politicalgraphics.org/)
+
+
+CSPG is an educational and research archive that collects, preserves, documents, and exhibits posters relating to historical and contemporary movements for social change.  Using its more than 90,000 human rights and protest posters and prints, CSPG creates traveling and online thematic exhibitions, and publications. CSPG is advancing the power of art to educate and inspire people to action.
+
+
+
+<https://www.politicalgraphics.org/>

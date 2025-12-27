@@ -1,7 +1,7 @@
 ---
 title: "SunDay.earth"
-subtitle: ""
-author: ""
+#subtitle: ""
+#author: ""
 format: html
 image: https://thirdact.org/wp-content/uploads/2025/06/sun-day-ta-1000x600-1-orange.png
 ---

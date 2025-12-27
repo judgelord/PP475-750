@@ -1,6 +1,7 @@
 ---
 title: "UMMA - American Sampler"
 subtitle: "Activating the Archive"
+author: Julie Ault
 format: html
 image: https://umma.umich.edu/wp-content/uploads/2025/10/Hannah-Hamplova-triptych2.png
 ---

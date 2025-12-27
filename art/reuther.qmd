@@ -1,0 +1,15 @@
+---
+title: "Walter P. Reuther Library"
+subtitle: "Wayne State University"
+format: html
+image: https://reuther.wayne.edu/pic/huelga.jpeg
+---
+
+[![](https://reuther.wayne.edu/pic/huelga.jpeg)](https://reuther.wayne.edu/exhibits)
+
+
+The Center for the Study of Political Graphics (CSPG) is an educational and research archive that collects, preserves, documents, and exhibits posters relating to historical and contemporary movements for social change.  Using its more than 90,000 human rights and protest posters and prints, CSPG creates traveling and online thematic exhibitions, and publications. CSPG is advancing the power of art to educate and inspire people to action.
+
+
+
+<https://reuther.wayne.edu/exhibits>

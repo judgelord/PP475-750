@@ -1,6 +1,6 @@
 ---
 title: "We Can Do It!"
-subtitle: ""
+# subtitle: ""
 format: html
 image: https://creativeaction.network/cdn/shop/articles/We-Can-Do-It-Grid_c4042fd5-143e-4a9f-86ec-3ff8f9e728f3_800x.jpg
 ---

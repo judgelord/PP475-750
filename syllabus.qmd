@@ -510,8 +510,7 @@ There are many "further" readings, and some required readings (especially the lo
 
 ## Week 3: Opportunity Structure and Issue Framing
 
-- To what extent have climate movements been effective, and why?
-- To what extent are the underlying features of U.S. climate politics outlined by McAdam in 2017 still true? 
+- According to McAdam, what are the three 
 
 ### Tuesday: Opportunity Structure and Mobilizing Structures 
 
@@ -523,6 +522,8 @@ There are many "further" readings, and some required readings (especially the lo
 
 
 ::: {.callout-note collapse="true" title="Further reading"}
+- [How to turn protest into powerful change - Eric Liu - TED-Ed](https://www.youtube.com/watch?v=c_g1BMVFcuw)
+- [Big Changes in the Pro-Life Movement You Need to Know! - A Pro-Life Primetime update from Priests for Life](https://youtu.be/wCcYfXmhBTE)
 - [Generation Green New Deal: The Pelosi Sit-In (Political Climate 2020)](https://www.politicalclimatepodcast.com/episodes/episode/22947545/generation-green-new-deal-the-pelosi-sit-in)
 :::
 
@@ -533,6 +534,14 @@ There are many "further" readings, and some required readings (especially the lo
 > Stone, Chapters 1 and 7
 
 > To Discuss: Research: [Chapter 1. Deva Woodly. 2015. The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance, Oxford University Press.](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&lang=en&)
+
+::: {.callout-note collapse="true" title="Further reading"}
+
+
+Example efforts to re-frame: 
+
+- [What The Pro-Life Movement Needs to Change - Catholic Answers - The Counsel of Trent](https://www.youtube.com/watch?v=ZZh2UOnCwDc)
+:::
 
 ## Week 4: Efficiency and Welfare
 
@@ -600,6 +609,10 @@ Movement demands (Sanders 1999; Htun & Weldon 2012; 2022; Sinha 2016; Thurston 2
 
 > SKIM [Do Political Protests Matter? Evidence from the Tea Party Movement](https://scholar.harvard.edu/files/shoag/files/dopoliticalprotestsmatterevidencef_preview.pdf) The *Quarterly Journal of Economics*, Volume 128, Issue 4, November 2013, Pages 1633–1685 <https://doi.org/10.1093/qje/qjt021>
 
+::: {.callout-note collapse="true" title="Further reading"}
+
+https://www.youtube.com/watch?v=0cvJDmJF_6Y
+:::
 
 ## Week 8: Vehicles 
 
@@ -648,6 +661,21 @@ Movement demands (Sanders 1999; Htun & Weldon 2012; 2022; Sinha 2016; Thurston 2
 ::: {.callout-note collapse="true" title="Further reading"}
 - Wilentz 2003
 - Sinha 2015
+
+{{< video https://www.youtube.com/watch?v=PjDuZ7ge9nA >}}
+
+- [Speaking and Protesting in America (American Archive of Public Broadcasting)](https://americanarchive.org/exhibits/first-amendment)
+
+- [Why Protest Movements Are ‘Civil’ Only in Retrospect (NY Times)](https://www.nytimes.com/2020/06/16/us/politics/us-protests-history-george-floyd.html)
+
+- [What Protests Can (And Can’t) Do (Vox)](https://fivethirtyeight.com/features/what-protests-can-do/)
+
+- [Your Rights When Protesting (ACLU)](https://www.aclusocal.org/know-your-rights/protesters/)
+
+
+
+- [Extreme Protest Tactics Reduce Popular Support for Social Movements (SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2911177)
+
 :::
 
 ### Thursday: Art (Meet at UMMA)
