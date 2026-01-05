@@ -67,18 +67,33 @@ This class will be a collaboration with UMMA staff and their [American Sampler](
 ![Students for Life of America, University of North Texas Chapter](https://studentsforlife.org/wp-content/uploads/2023/10/Screen-Shot-2023-10-23-at-1.53.26-PM-min.jpg)
 
 
-
+![Never Again by BubbSnugg](https://image.spreadshirtmedia.com/image-server/v1/products/T1459A839PA3861PT28X8Y0D1025685656W8333H10000/views/1,width=1200,height=630,appearanceId=839,backgroundColor=F2F2F2/never-again-coat-hanger-pro-choice-is-pro-life-sticker.jpg)
 
 ![SNCC Poster: Come Let Us Build A New World Together by Danny Lyon](https://umma.umich.edu/wp-content/uploads/2025/10/Websize_SNCC_Danny-Lyon_come-let-us-build-a-new-world-together-617x485.jpg){fig-alt="SNCC Poster: Come Let Us Build A New World Together by Danny Lyon"}
 
 ![Counterfit News by Kelli Anderson](https://www.kellianderson.com/projects/assets/images/project_images/newspaper1.jpg){fig-alt="COUNTERFEIT NEWS"}
 
+![Justice for janitors in San Francisco, Kristin Prentice for SEIU Local 87, 1995; Inkworks Press Archive](https://www.docspopuli.org/images/06_0726_079.jpg){fig-alt="Justice for janitors in San Francisco, Kristin Prentice for SEIU Local 87, 1995; Inkworks Press Archive."}
+
+
+![We do mind dying, Doug Minkler, 1980; Cushing Archive.](https://www.docspopuli.org/images/07_0209_059.jpg){fig-alt="WE do mind dying, Doug Minkler, 1980; Cushing Archive."}
+
+:::
+
+::: {layout="[[1,1,1, 1]]"}
+
+![Freedom of Speech by Norman Rockwell](https://rockwellfourfreedoms.org/wp-content/uploads/2018/03/FreedomofSpeech-sm-2.jpg)
+
+![Fredom of Worship by Norman Rockwell](https://rockwellfourfreedoms.org/wp-content/uploads/2018/03/FreedomofWorship-sm-2.jpg)
+
+![Freedom from Want by Norman Rockwell](https://rockwellfourfreedoms.org/wp-content/uploads/2018/03/FreedomfromWant-sm-2.jpg)
+
+
+![Freedom from Fear by Norman Rockwell](https://rockwellfourfreedoms.org/wp-content/uploads/2018/03/FreedomfromFear-sm-2.jpg)
 
 <!--
 
-![](https://www.docspopuli.org/images/06_0726_079.jpg){fig-alt="Justice for janitors in San Francisco, Kristin Prentice for SEIU Local 87, 1995; Inkworks Press Archive."}
 
-![](https://www.docspopuli.org/images/07_0209_059.jpg){fig-alt="WE do mind dying, Doug Minkler, 1980; Cushing Archive."}
 
 ![Protect yourself from this menace; IWW, circa 1921; Reuther Archive.](https://www.docspopuli.org/images/07_0510_041.jpg)
 
@@ -87,12 +102,11 @@ This class will be a collaboration with UMMA staff and their [American Sampler](
 
 ![There is no prejudice in kids unless adults put it there, UAW Fair Practices Department, circa 1963; Reuther Archive.](https://www.docspopuli.org/images/07_0510_008.jpg)
 
-
-
-
-
 --> 
+
 
 :::
 
 ![A detail from Diego Rivera’s Detroit Industry at the DIA. Photo: Getty Images](https://stories.vassar.edu/2016/assets/images/161116-hipsters-wall.jpg)
+
+![Coalition of Immokalee Workers mística theater at the March for Rights, Respect and Fair Food](https://monacaron.com/sites/default/files/styles/full_width_1006/public/CIW_MisticaTheater_0013_MonaCaron.jpg)
