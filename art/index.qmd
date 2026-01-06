@@ -109,6 +109,7 @@ format:
 
 {{< video https://www.youtube.com/watch?v=qEiywFC3tqk title="Bread and Roses" >}}
 
+<!--
 {{< video https://www.youtube.com/watch?v=5HkYrA3fg_U title="Rosa Luxemburg (1986)" >}} <!--https://ok.ru/video/6665770961506--> 
 
 :::
