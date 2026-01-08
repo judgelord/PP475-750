@@ -29,7 +29,6 @@ $text-muted: #4c6782;
 $code_highlight_color: #FFCB05;
 $background_color: #FFFFFF;
 $text_font_size: 1rem;
-$code_font_size: 1rem;
 $header_h1_font_size: 1.75rem;
 $header_h2_font_size: 1.5rem;
 $header_h3_font_size: 1.25rem;
@@ -46,19 +45,12 @@ $callout-color-important: #9A3324;
 
 /*-- PRESENTATIONS --*/
 
-/*-- change menue logo to block M --*/
-
+/*-- make menue logo the block M --*/
 .reveal .slide-menu-button .fa-bars::before {
   background-image: url('https://brand.umich.edu/assets/brand/downloads/um-logos/primary_logo_kit/black-logo/u-m_logo-black.png') !important;
 }
 
 /*-- scss:rules --*/
-.reveal pre code {
-  background-color: #42affa;
-  font-size: 1em;
-  padding: 1em;
-  line-height: 1.1em;
-}
 
 
 .transparent {
@@ -121,7 +113,6 @@ p {
   border-left: 3px solid $text-muted;
   padding-left: 1em;
   font-style: italic;
-  font-weight: bold;
   color: #4c6782;
 }
 

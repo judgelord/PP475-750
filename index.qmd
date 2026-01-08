@@ -44,6 +44,9 @@ This class will be a collaboration with UMMA staff and their [American Sampler](
 
 ![Tea Party Rally - Getty](https://media.gettyimages.com/id/525595256/photo/members-and-supporters-of-the-tea-party-hold-a-rally-calling-for-the-repeal-of-president.jpg?s=612x612&w=0&k=20&c=VdAqWSU7ZdTmoYiRVJPbwXz9nyFl1eyRX9iXQZ4ToZk=){fig-alt="Tea Party Rally - Getty"}
 
+![Gucci CHIME Zine curated by Kimberlé Crenshaw](https://vmagazine.com/wp-content/uploads/2020/09/BANNER-sayhername.jpg)
+
+![](https://static.independent.co.uk/2024/03/08/05/SEI195031379.jpg)
   
  ![One Nation Under God - WalMart.com](https://i5.walmartimages.com/seo/One-Nation-Under-God-Fourth-of-July-Shirt-Christian-American-Shirt-God-Bless-America-Pledge-Of-Allegiance-Independence-Day-Tee-Patriotic-Tee_0818676f-8c85-4dbe-b394-80acbdb527ba.c87ba2bc391dbfb98e2ecd4e4208fdc5.jpeg){fig-alt="One Nation Under God - WalMart.com"}
 
@@ -73,10 +76,15 @@ This class will be a collaboration with UMMA staff and their [American Sampler](
 
 ![Counterfit News by Kelli Anderson](https://www.kellianderson.com/projects/assets/images/project_images/newspaper1.jpg){fig-alt="COUNTERFEIT NEWS"}
 
+<!--
+
 ![Justice for janitors in San Francisco, Kristin Prentice for SEIU Local 87, 1995; Inkworks Press Archive](https://www.docspopuli.org/images/06_0726_079.jpg){fig-alt="Justice for janitors in San Francisco, Kristin Prentice for SEIU Local 87, 1995; Inkworks Press Archive."}
 
 
+
 ![We do mind dying, Doug Minkler, 1980; Cushing Archive.](https://www.docspopuli.org/images/07_0209_059.jpg){fig-alt="WE do mind dying, Doug Minkler, 1980; Cushing Archive."}
+
+--> 
 
 :::
 
