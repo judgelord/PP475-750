@@ -274,10 +274,10 @@ In the middle third of the semester, you will narrow your focus to three ideas a
 
 - Week 7:  **Six** revised sketches, **two** for each of **three** policies + a 400-word theory of change for each + annotated bibliography in footnotes (1%)
 - Week 8: Peer critiques (2%)
-- Week 9: **Six** revised sketches, **three** for each of **two** + revised 400-word theory of change + annotated bibliographies in footnotes (1%)
+- Week 9: **Six** revised sketches, **three** for each of **two** policies+ revised 400-word theory of change + annotated bibliographies in footnotes (1%)
   - Workshop at UMMA
 - Week 10: Peer critiques (2%)
-- Week 11:  **Six** revised sketches, **three** for each of **two** + revised 400-word theory of change + annotated bibliographies in footnotes  + updated revision spreadsheets (20%)
+- Week 11:  **Six** revised sketches, **three** for each of **two** policies + revised 400-word theory of change + annotated bibliographies in footnotes  + updated revision spreadsheets (20%)
 - Week 12: 
   - My feedback on your work
   - Reflection post (1%)
@@ -310,7 +310,7 @@ Because nearly all assignments are either revised versions of previous submissio
 Under extenuating circumstances, I will attempt to work out an alternative review cycle. This is much easier if I am the one reviewing a draft than if it is a draft submitted for peer review.
 
 
-## Participation - 22% (24 classes X 1% per class - 2 pass days) 
+## Participation - 21% (21 classes X 1% per class - 2 pass days + 2 facilitation X 1% per class) 
 
 - Discussion posts about at least one of the readings are due by <mark> 7 p.m. on Canvas Mondays and Wednesdays</mark> weeks 2-14. Late posts are not counted. Posts should be no more than 150 words and include (1)  a **one-sentence** summary of <mark> Your understanding of the argument(s) relevant to your question(s), (2) What you think about the argument(s), AND (3) Question(s) *about the reading(s)* that merit further discussion.</mark>  <!--TODO See my [guide for crafting a good discussion question]().--> 
 When there are multiple readings, you need not ask a question about every reading, but do focus on the more substantive readings. Quotes and citations don't count toward the word limit.
@@ -510,8 +510,7 @@ There are many "further" readings, and some required readings (especially the lo
 
  > To Discuss: [Carpenter, Daniel. 2023. "Agenda Democracy." *Annual Review of Political Science* Vol. 26:193-212](https://doi.org/10.1146/annurev-polisci-051921-102533) by Daniel Carpenter
 
- > To Discuss: Schlozman, D. J. (2015). When movements anchor parties: Electoral alignments in American history. Princeton University Press. (Introduction, 1-13) `(Perusall)`
- 
+
 
 ## Week 3: Opportunity Structure and Issue Framing
 
@@ -519,8 +518,7 @@ There are many "further" readings, and some required readings (especially the lo
 
 ### Tuesday: Opportunity Structure and Mobilizing Structures 
 
-
-> To Discuss: Schlozman, D. J. (2015). When movements anchor parties: Electoral alignments in American history. Princeton University Press. (Chapter 2, Political Parties and Social Movements, p. 14-49) `(Perusall)`
+> To Discuss: Schlozman, D. J. (2015). When movements anchor parties: Electoral alignments in American history. Princeton University Press. (Introduction, p. 1-13, and Chapter 2, Political Parties and Social Movements, p. 14-49) `(Perusall)`
 
 > To Discuss: [McAdam, Doug. 2017. “Social Movement Theory and the Prospects for Climate Change Activism in the United States.” *Annual Review of Political Science* 20:189–2008](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-052615-025801)
 
@@ -614,11 +612,15 @@ Movement demands (Sanders 1999; Htun & Weldon 2012; 2022; Sinha 2016; Thurston 2
 
 ## Week 7:  The Tea Party
 
+Woodly, Schlozman, and Skocpol & Williamson have contrasting perspectives on the Tea Party. Woodly focuses on its impact on discourse. Schlozman argues it is a party faction more than a movement. Skocpol & Williamson focus on grass-roots organizers. 
+
 ### Tuesday
 
-> Stone, Chapter 5-6: Liberty & Security
+- Optional background:  Stone, Chapter 5-6: Liberty & Security
 
 > To Discuss: Woodly, Conclusion: After Acceptance - the Tea Party, Occupy & Prospects for political transformation
+
+> Schlozman, D. J. (2015). When Movements Anchor Parties: Electoral Alignments in American History. Princeton University Press, Chapter 10 (242-256)
 
 
 ### Thursday 

@@ -1,5 +1,16 @@
 [
   {
+    "listing": "/slides/index.html",
+    "items": [
+      "/slides/Unger.html",
+      "/slides/agenda-democracy.html",
+      "/slides/art.html",
+      "/slides/dwidar.html",
+      "/slides/schlozman.html",
+      "/slides/woodly.html"
+    ]
+  },
+  {
     "listing": "/art/index.html",
     "items": [
       "/art/bpl.html",
@@ -16,16 +27,6 @@
       "/art/sfla.html",
       "/art/sunday.html",
       "/art/umma.html"
-    ]
-  },
-  {
-    "listing": "/slides/index.html",
-    "items": [
-      "/slides/Unger.html",
-      "/slides/agenda-democracy.html",
-      "/slides/art.html",
-      "/slides/dwidar.html",
-      "/slides/woodly.html"
     ]
   }
 ]

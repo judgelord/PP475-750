@@ -1,0 +1,122 @@
+---
+title: When Movements Anchor Parties
+author: Daniel Schlozman
+date: "" # today
+image: "https://pup-assets.imgix.net/onix/images/9780691164694.jpg"
+subtitle: ""
+title-slide-attributes:
+    data-background-image: "https://pup-assets.imgix.net/onix/images/9780691164694.jpg"
+    data-background-size: cover
+    data-background-opacity: "0.3"
+format:
+ revealjs:
+   incremental: false
+   scrollable: true
+   theme: [../michigan.scss, jamesgmartin.scss]
+smaller: false
+---
+
+> Social movements hold special possiblity to disrupt the terms of the debate and expand ideological horizons. 
+
+> A poitical party is an organized attempt to get control of the goverment." - E.E. Schattschneider
+
+> Because parties organize social conflict, they also structure the possibilities for movements to achieve ongoing influence.
+
+
+
+## Alliances between groups and parties {background-image="https://equitablegrowth.org/wp-content/uploads/2020/09/Wagner-Act.jpg" background-opacity=".2"}
+
+> "Clear it with Sidney" - Franklin Delano Roosevelt
+
+## Alliances between groups and parties. {background-image="https://i.ytimg.com/vi/5pclC1bAfLI/maxresdefault.jpg" background-opacity=".5"}
+
+> "I know you can't endorse *me*. But...I want you to know that I endorse *you." - Presidential Candidate Ronald Reagan, 1990
+
+##  Key terms 
+
+### "Anchoring groups" 
+
+
+> Anchoring groups are organized actors that forego autonomous action to ally with major political parties [and] shape parties' long-term trajectories by e
+
+Enacting favored policies and shaping parties' ideological development. 
+
+
+### "Ideological patronage"
+
+Groups provide money, votes, and networks, demand policy payback
+
+
+## Some social movements align with parties; some don't. Why? 
+
+1. Why do some groups get inside? 
+2. Why are some groups forced out? 
+
+# Chapter 2 
+
+> Political parties accept alliance with potential anchoring groups only wehn winning coalitions inside those parties see the path to ongoing electoral majority with the anchoring group incorporated. 
+
+## Chapter 3
+
+A group of labor leaders break from AFL's non-partisan commitments, forming the CIO, which help elect democrats, starting with FDR in 1936.
+
+## Chapter 4 
+
+New Right entrepreneurs, Richard Viguerie and Paul Weyrich, organize evangelicals into Moral Majority in 1979, connecting religion to electoral politics and helping to elect Reagan in 1980.
+
+## Chapter 5 
+
+## Populism 
+
+Reshaped politics and the terrain of conflict for both parties. 
+
+However, neither fully embraced the Populists' challenge to corporate capitalism. 
+
+The remnants of the movement merged with the Democrats in 1896. 
+
+## The Antiwar movement 
+
+- Contributed to the change in public attitude toward war in Vietnam. 
+
+- But anti-war Senator George McGovern won the presidential nomination in 1972 only after the movement had splintered and lacked power to challenge policies of American imperialism
+
+PART II 
+
+When movement energy dissipates, movement focuse on maintaining their organizations and protexting their policy victories. 
+
+Movements stay in the party coalition as long as they can trade  votes and resources for policy influence.
+
+## Chapter 6 
+
+As labor influence fades, Congress passes anti-labor Taft-Hartley Act and blocks pushes for public pensions and healthcare. 
+
+CIO forces out its most talented organizers to maintain alliance with anti-communists in Truman administration. 
+
+
+
+## Chapter 7
+
+Since the 1970s, unions, labor law, and the welfare state are attacked, weakly supported by the party. 
+
+## Chapter 8
+
+The Christian Right matured, the party and movement have merged. 
+
+`Peak organizations` (Moral Majority, etc.) less important.^[still true? What about Turning Point, AFP, the Koch Network, and other organizations outside the party organization?]
+
+Christian nationalists have come to dominate party organizations. The GOP mobiles church-based networks directly. 
+
+## Chapter 9 
+
+> After the Civil War and the end of slavery, the abolitionist movement failed to sustain alliance between African Americans and their norther supporters..as the Republican Party followed the intersts of its core industrialist backers. 
+
+## Chapter 10 Occupy and the Tea Party 
+
+
+
+
+
+
+
+
+
