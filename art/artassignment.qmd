@@ -1,0 +1,13 @@
+---
+title: "The Art Assignment"
+author: ""
+format: html
+image: https://images.squarespace-cdn.com/content/v1/560e947ce4b08da6eb83df5f/1454081746131-A47RY4W43R8P5U5RZC55/image-asset.jpeg
+---
+
+[![](https://images.squarespace-cdn.com/content/v1/560e947ce4b08da6eb83df5f/1454081746131-A47RY4W43R8P5U5RZC55/image-asset.jpeg)](https://www.theartassignment.com)
+
+
+
+
+<https://www.theartassignment.com/>
