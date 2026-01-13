@@ -263,10 +263,12 @@ In the first third of the class, you develop six exhibition ideas and attempt to
   - Meet with me about your ideas
   <!---[Sign up here](https://calendar.app.google/sF3Px1X8mNcNjFtQ8) --> 
   (part of the previous assignment grade)
-  - Reflection post  (1%)
+    
+<!-- - Reflection post  (1%)
   
-  <!--Reflection on either your experience with climate activism or feelings about climate change.-->
+Reflection on either your experience with climate activism or feelings about climate change.
 - At some point during the first half of the semester, present one of your ideas to the class (2-3 minutes each). Two students will pitch their ideas each week. This will give you practice testing out your argument and presentation skills (1%)
+-->
 
 ### Craft your message - 27% of final grade
 
@@ -310,12 +312,15 @@ Because nearly all assignments are either revised versions of previous submissio
 Under extenuating circumstances, I will attempt to work out an alternative review cycle. This is much easier if I am the one reviewing a draft than if it is a draft submitted for peer review.
 
 
-## Participation - 21% (21 classes X 1% per class - 2 pass days + 2 facilitation X 1% per class) 
+## Participation
+
+### 21% (21 classes X 1% per class - 2 pass days + 2 facilitation X 1% per class) 
 
 - Discussion posts about at least one of the readings are due by <mark> 7 p.m. on Canvas Mondays and Wednesdays</mark> weeks 2-14. Late posts are not counted. Posts should be no more than 150 words and include (1)  a **one-sentence** summary of <mark> Your understanding of the argument(s) relevant to your question(s), (2) What you think about the argument(s), AND (3) Question(s) *about the reading(s)* that merit further discussion.</mark>  <!--TODO See my [guide for crafting a good discussion question]().--> 
 When there are multiple readings, you need not ask a question about every reading, but do focus on the more substantive readings. Quotes and citations don't count toward the word limit.
 - Participate in class discussion. Attendance is required. You must let me know *ahead of time* if you must miss class. 
-- Summarize the discussion questions posed on Canvas for one class (2-3 minutes OR summarize what we have learned and how we have refined the points of debate at the end of one class (2-3 minutes)
+- Summarize the discussion questions posed on Canvas for one class (2-3 minutes)
+- Summarize what we have learned and how we have refined the points of debate at the end of one class (2-3 minutes)
 
 [Sign up to summarize questions or what we learned here.](https://calendar.app.google/sF3Px1X8mNcNjFtQ8)
 
@@ -579,37 +584,22 @@ Example efforts to re-frame:
 
 > To Discuss: Woodly, Chapter Three: A Tale of Two Movements- Marriage Equality
 
-### Thursday: Environmental Justice
+### Thursday: 
 
-> People of color [raised] social justice concerns such as self-determination, sovereignty, human rights, social inequality, loss of land base, limited access to natural resources, and disproportionate impacts of environmental hazards and linked them with traditional working-class environmental concerns such as worker rights and worker health and safety to develop an environmental justice agenda. (Taylor, p. 1)
+> To Discuss: Woodly, Chapter Four: The Discursive Architecture of Resonance
 
-
->  To Discuss: ["Race, Class, Gender, and American Environmentalism. US Forest Service General Technical Report PNW-GTR-534" (2002) by Dorceta Taylor](https://doi.org/10.2737/PNW-GTR-534) (1-41)
-
-
-::: {.callout-note collapse="true" title="Further reading"}
-- [Racism as a Motivator for Climate Justice, Mark A. Mitchell, *Daedalus* Fall 2020](https://www.amacad.org/publication/racism-motivator-climate-justice)
-- [Bringing Environmental Justice into Government Rulemaking, with Ann Wolverton (Resources Radio, 2023)](https://www.resources.org/resources-radio/bringing-environmental-justice-into-government-rulemaking-with-ann-wolverton/) (32 min) 🎧
-- Bullard, R. D. (2005). *The quest for environmental justice: Human rights and the politics of pollution*
-- [Putting more climate philanthropy toward economic and racial justice: A conversation with Abdul Dosunmu about the Climate Funders Justice Pledge. (Volts, 2023)](https://www.volts.wtf/p/putting-more-climate-philanthropy) (48 min) 🎧 
-- [*Roosevelt Project Gulf Coast case* (2022) by Jason Beckfield et al.  1-30](https://ceepr.mit.edu/wp-content/uploads/2022/12/2022-The-Roosevelt-Project-Gulf-Coast-Case-Study.pdf)
-- [Less Talk, More Walk: Why Climate Change Demands Activism in the Academy](https://direct.mit.edu/daed/article/149/4/151/94866/Less-Talk-More-Walk-Why-Climate-Change-Demands)
-- *Fighting in a World on Fire* by Malm
-- *Climate Change as Class War* by Huber 
-:::
 
 ## Week 6: Theories of Change
 
 ### Tuesday 
 
 
-> To Discuss: Woodly, Chapter Four: The Discursive Architecture of Resonance
 
 <!--OR?--> 
 
 > To Discuss: Woodly, Chapter Five: Political Acceptance and the Process of Political Change
 
-### Thursday 
+
 
 > To Discuss: Woodly, Chapter Six: From Marginal to Mainstream
 
@@ -617,6 +607,10 @@ Example efforts to re-frame:
 ::: {.callout-note collapse="true" title="Further reading"}
 Movement demands (Sanders 1999; Htun & Weldon 2012; 2022; Sinha 2016; Thurston 2018; Forrester 2022; Tarrow 2022) 
 :::
+
+### Thursday
+
+Guest speaker 
 
 ## Week 7:  The Tea Party
 
@@ -764,7 +758,28 @@ https://npr.brightspotcdn.com/dims3/default/strip/false/crop/744x768+0+0/resize/
 Guest speaker
 
 
-## Week 12: 
+## Week 12: Climate and Environmental Justice
+
+Tuesday: Environmental Justice
+
+> People of color [raised] social justice concerns such as self-determination, sovereignty, human rights, social inequality, loss of land base, limited access to natural resources, and disproportionate impacts of environmental hazards and linked them with traditional working-class environmental concerns such as worker rights and worker health and safety to develop an environmental justice agenda. (Taylor, p. 1)
+
+
+>  To Discuss: ["Race, Class, Gender, and American Environmentalism. US Forest Service General Technical Report PNW-GTR-534" (2002) by Dorceta Taylor](https://doi.org/10.2737/PNW-GTR-534) (1-41)
+
+
+::: {.callout-note collapse="true" title="Further reading"}
+- [Racism as a Motivator for Climate Justice, Mark A. Mitchell, *Daedalus* Fall 2020](https://www.amacad.org/publication/racism-motivator-climate-justice)
+- [Bringing Environmental Justice into Government Rulemaking, with Ann Wolverton (Resources Radio, 2023)](https://www.resources.org/resources-radio/bringing-environmental-justice-into-government-rulemaking-with-ann-wolverton/) (32 min) 🎧
+- Bullard, R. D. (2005). *The quest for environmental justice: Human rights and the politics of pollution*
+- [Putting more climate philanthropy toward economic and racial justice: A conversation with Abdul Dosunmu about the Climate Funders Justice Pledge. (Volts, 2023)](https://www.volts.wtf/p/putting-more-climate-philanthropy) (48 min) 🎧 
+- [*Roosevelt Project Gulf Coast case* (2022) by Jason Beckfield et al.  1-30](https://ceepr.mit.edu/wp-content/uploads/2022/12/2022-The-Roosevelt-Project-Gulf-Coast-Case-Study.pdf)
+- [Less Talk, More Walk: Why Climate Change Demands Activism in the Academy](https://direct.mit.edu/daed/article/149/4/151/94866/Less-Talk-More-Walk-Why-Climate-Change-Demands)
+- *Fighting in a World on Fire* by Malm
+- *Climate Change as Class War* by Huber 
+:::
+
+Thursday: Climate Justice
 
 ## Week 13: Movements & Democracy 
 
