@@ -47,8 +47,10 @@ The agenda
 
 ## Policy agenda research
 
+New research emphasizes how agendas are shaped by nonelectoral and nonpartisan mechanisms. 
 
-How the agenda is limited, often by elites or attention dynamics 
+
+For example, how agendas are limited, often by elites or attention dynamics 
 
    - limiting [the scope of conflict]() (Schattschneider 1975)
    
@@ -63,13 +65,13 @@ How the agenda is limited, often by elites or attention dynamics
 
 
 ::: {.notes}
- e.g. via what is “public” vs. “private”
+ e.g., via what is “public” vs. “private”
 (Romer and Rosenthal 1978; Kingdon 1984; Baumgartner and Jones 1993)
 :::
 
 ---
 
-## limiting the scope of conflicts
+## Limiting the scope of conflicts
 
 Defining appropriate spheres 
 
@@ -82,9 +84,13 @@ Defining appropriate spheres
 
 ## Problem definitions and public meaning
 
-The premises of decision-making + the scope *and meaning* of conflicts
+ - The premises of decision-making
+ - The scope of conflicts
+ - The *meaning* of conflicts
 
-> If a problem is an "environmental" issue does it implicate efficiency questions, questions of the common good, or matters of justice? Why?
+For example: 
+
+> If a problem is an "environmental" issue, does it implicate efficiency questions, questions of the common good, or matters of justice? Why?
 
 
 <!---
@@ -142,6 +148,17 @@ $\rightarrow$ Agenda coordination by Americans for Prosperity (AFP), the America
 (Romer and Rosenthal 1978; Kingdon 1984; Baumgartner and Jones 1993)
 :::
 
+
+## Decomposing the term "movement"
+
+> A conscious, concerted, and sustained effort by ordinary people to change some aspect of their society by using extra-institutional means. - Goodwin and Jasper
+
+$\rightarrow$ agenda-democratizing processes and institutions 
+
+$\rightarrow$ illiberal, conservative, or even antidemocratic campaigns 
+
+$\rightarrow$ many patterns of activism that do not rise to the level of a "movement" may still shape agendas
+
 ---
 
 
@@ -168,7 +185,7 @@ $\rightarrow$ Agenda coordination by Americans for Prosperity (AFP), the America
 - protests
 - advocacy campaigns 
 - organized political collectives (e.g., labor unions)
-- non-electoral elite interventions (e.g., courts)
+- nonelectoral elite interventions (e.g., courts)
 :::
 Many begin as attempts to address issues of non-democracy in agenda setting, but campaigns may also be illiberal or anti-democratic.
 
@@ -176,7 +193,7 @@ Many begin as attempts to address issues of non-democracy in agenda setting, but
 
 ## Success 
 
-“success” of these campaigns should consider not merely whether they changed policy or laws in the short run, but whether they shifted agendas and discourse 
+> Evaluations of the success of these campaigns should consider not merely whether they changed policy or laws in the short run, but whether they shifted agendas and discourse.
 
 ---
 
@@ -229,7 +246,7 @@ Gillion
 
 > Does Carpenter believe that certain agenda-restricting mechanisms should remain to prevent malicious/antiliberal actors from using petitions, complaint forums, and other agenda-democratizing systems to harm their fellow citizens, when “social-shaming or democratic-republican virtue” does not work?
 
-> Do we have adequate safeguards in place to allow for unlimited agenda democracy while safeguarding foundational liberal values and principles? Are the courts and constitution enough?
+> Do we have adequate safeguards in place to allow for unlimited agenda democracy while safeguarding foundational liberal values and principles? Are the courts and the Constitution enough?
 
 ---
 
