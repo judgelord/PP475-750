@@ -45,8 +45,6 @@ The agenda
 
 ---
 
-## Policy agenda research
-
 New research emphasizes how agendas are shaped by nonelectoral and nonpartisan mechanisms. 
 
 
@@ -277,13 +275,16 @@ Gillion
 
 
 
-## Agenda vs. "logic of appropriateness" (March and Olson)/"third face of power" (Lukes)/"ideological power" 
+## Related concepts 
+
+- "logic of appropriateness" (March and Olson) 
+- "third face of power" (Lukes)/"ideological power" 
 
 <!--
 > Won't the kinds of things Carpenter brings up that have the possibility of democratizing agenda---party transformation, claims-making, public demonstration, bargaining, etc.---also possibly have the impact of changing some core preferences?
 --> 
  
- 1. As Forester says, movements do shape preferences ("constituencies") by setting the horizon of the possible 
+ 1. As Forester says, movements shape preferences ("constituencies") by setting the horizon of the possible 
  
  2. In Carpenter's world, agenda power is not so much about true or false consciousness.
  
