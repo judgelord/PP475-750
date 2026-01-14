@@ -232,7 +232,7 @@ Below is the schedule of due dates.
 
 ### Inspiration
 
-- Week 1: A list of **six** policies you would like to see changed, **3** organizations working to create each policy change, and one example of [ephemera](https://en.wikipedia.org/wiki/Ephemera) from each organization. (1%)^[Most organizations have an email list---I suggest signing up, both for the assignments in this class and your future career.] The plan is that you will work on these for the rest of the semester, so pick causes for which you want to make art!
+- Week 1: A list of **six** policies you would like to see changed, **three** organizations working to create each policy change, and one example of art or graphic design from each organization. (1%)^[Most organizations have an email list---I suggest signing up, both for the assignments in this class and your future career.] The plan is that you will work on these for the rest of the semester, so pick causes for which you want to make art!
 
 > 6 policies
 >
@@ -258,7 +258,7 @@ In the first third of the class, you develop six exhibition ideas and attempt to
 - Week 3: **Six** original sketches, **one** for each policy + a 200-word theory of change for each + annotated bibliography in footnotes (1%) 
 - Week 4:  Peer critiques (2%)
   - UMMA visit
-- Week 5: **Five** revised sketches, **one** for each 5 policies + a 200-word theory of change for each + annotated bibliography in footnotes (20%) 
+- Week 5: **Five** revised sketches, **one** for each **five** policies + a 200-word theory of change for each + annotated bibliography in footnotes (20%) 
 - Week 6:
   - Meet with me about your ideas
   <!---[Sign up here](https://calendar.app.google/sF3Px1X8mNcNjFtQ8) --> 
@@ -274,22 +274,23 @@ Reflection on either your experience with climate activism or feelings about cli
 
 In the middle third of the semester, you will narrow your focus to three ideas and then two ideas, and write the first half of each through multiple rounds of revision. 
 
-- Week 7:  **Six** revised sketches, **two** for each of **three** policies + a 400-word theory of change for each + annotated bibliography in footnotes (1%)
+- Week 7:  **Six** revised sketches, **two** for each of **three** policies + a 300-word theory of change for each policy + 150 words for each sketch + bibliography in footnotes (1%)
 - Week 8: Peer critiques (2%)
-- Week 9: **Six** revised sketches, **three** for each of **two** policies+ revised 400-word theory of change + annotated bibliographies in footnotes (1%)
+- Week 9: **Six** revised sketches, **three** for each of **two** policies + a 300-word theory of change for each policy + 150 words for each sketch +  bibliographies in footnotes (1%)
   - Workshop at UMMA
 - Week 10: Peer critiques (2%)
-- Week 11:  **Six** revised sketches, **three** for each of **two** policies + revised 400-word theory of change + annotated bibliographies in footnotes  + updated revision spreadsheets (20%)
+- Week 11:  **Six** revised sketches, **three** for each of **two** policies + a 300-word theory of change for each policy + 150 words for each sketch + bibliographies in footnotes  + updated revision spreadsheets (20%)
 - Week 12: 
   - My feedback on your work
-  - Reflection post (1%)
+  
+<!--  - Reflection post (1%) --> 
 
 ### Hone your critique - 23% of final grade
 
 Through further rounds of revision, you will hone your critique, improving your logic and writing (writing can always be improved).
 
 
-- Week 13:  **Six** revised sketches for **one** policy + **1-page** exhibition-formatted theory of change for each + annotated bibliographies in **ENDNOTES**  + updated revision spreadsheets (1%)
+- Week 13:  **Six** revised sketches for **one** policy + an exhibition-formatted 300-word theory of change + 150 words for each sketch + citations in **ENDNOTES**  + updated revision spreadsheets (1%)
 - Week 14: Peer critiques (2%)
    - Present at UMMA
 - Week 15: Final exhibit + updated revision spreadsheet (20%)
@@ -363,9 +364,7 @@ Here are some example discussion questions:
 
 You get two days to take a pass on posting a discussion question and/or participating in class. Even if you are taking a pass on participation, I hope you will still come to class. If you are taking a pass and don't want me to call you into the conversation, just let me know ahead of time.
 
-Pass days will initially appear as "0" on Canvas, but I will adjust participation points when I calculate your final scores in Canvas. 
-
-Beyond your two pass days, I allow you to make up two additional days:
+Beyond your two pass days, you may make up two additional days:
 
 - If you know that you will miss class, write a `1-page reflection` on the readings and share it with the class **with your discussion post.**
 - If you unexpectedly miss class, post a `1-page reflection on the readings **AND schedule a time to discuss the readings with me**` (ideally, during office hours)
