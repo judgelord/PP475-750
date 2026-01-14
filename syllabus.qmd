@@ -378,7 +378,7 @@ Beyond four missed classes (two passes, two make-ups), I  only allow make-ups in
 We will read most of the following books.
 As no back-lit screens are permitted in class, a physical copy to bring to class will be helpful. However, if money is tight, free PDFs are available via the library website. 
 
-> [*The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance* by Deva Woodly (2015, Oxford University Press)](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986)  
+> [Woodly, D. (2011). *The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance*. Oxford University Press](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986)  
 
 > *Policy Paradox:  The Art of Political Decision Making* by Deborah Stone (any edition)
  
@@ -395,9 +395,9 @@ Physical copies of these are less critical, but we will also read several chapte
 
 > McAdam, D. (1999). Political process and the development of Black insurgency, 1930-1970 (2nd ed.). University of Chicago Press.
 
-> Dwidar, Maraam A. 2024. *Power to the Partners: Organizational Coalitions in Social Justice Advocacy*
+> Dwidar, Maraam A. (2024). *Power to the Partners: Organizational Coalitions in Social Justice Advocacy*. University of Chicago Press.
 
-> Reckoning: Black Lives Matter and the Democratic Necessity of Social Movements by Deva R. Woodly  
+> Woodly, D. (2022) *Reckoning: Black Lives Matter and the Democratic Necessity of Social Movements*. Oxford University Press. 
 
 
 The other readings will be available for free online (you may need to go through the library website for journal articles) or on Canvas.
@@ -407,6 +407,11 @@ The other readings will be available for free online (you may need to go through
 ## Non-assigned books you may find useful
 
 - *The Social Movements Reader* by Jeff Goodwin and James M. Jasper
+- *Rethinking Social Movements Structure, Meaning, and Emotion* by Jeff Goodwin and James M. Jasper
+- *The Political Power of Protest: Minority Activism and Shifts in Public Policy* by 	
+Daniel Q. Gillion
+- *Poor People's Movements: Why They Succeed, How They Fail* by Frances Fox Piven and Richard Cloward
+- 
 - *Politics is for Power* by Eitan Hersh
 - *Rules for Radicals* by Saul Alinsky
 - [*Politics: The Central Texts* by Roberto Mangabeira Unger (1997, Verso Books)](https://www.versobooks.com/products/1570-politics)
