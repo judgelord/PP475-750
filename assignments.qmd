@@ -77,26 +77,30 @@ Policy 6: [Policy change]
 
 Theories of change or resistance to change should be grounded in the assigned readings and additional academic research. Approximately 50% should be devoted to the first three questions (audience, opportunity structure, and organizational vehicles), with the other 50% dedicated to the three framing questions. 
 
-### Audience 
 
-Who is the audience? 
+::: {.callout-note collapse="true" icon="false" appearance="simple" title="1. Opportunity Structure"}
+What opportunities for and constraints on policy change exist in the current political and institutional context? Who stands to gain and who stands to lose from change? What are their relationships to those in formal positions of power? Do coalitions need to be reshaped? Do a certain number of people need to win or lose elections? What are the odds of that happening? 
+:::
 
-### Opportunity Structure
+::: {.callout-note collapse="true" icon="false" appearance="simple" title="2. Audience"} 
+Who is the audience? Who must the movement aim to mobilize or persuade? 
+:::
 
-What opportunities for and constraints on policy change are present in political and institutional structure? 
 
-### Vehicles
-
+::: {.callout-note collapse="true" icon="false" appearance="simple" title="3. Vehicles"}
 What organizations serve as vehicles to translate movement demands to organized political activity and policy change? 
 
 Politics is fundamentally an organized activity. Thus, theories of change must include the role of organizations. Are they choosing the right battles? Are they framing the issues in the most effective way? Is their theory of change (or resistance to change) realistic? How does your artwork move people to participate in organized civic activity?  
+:::
 
-### Framing 
+::: {.callout-note collapse="false" icon="false" appearance="simple" title="Framing"}
+
+How do activists attempt to reframe the issue?
 
 1. What **deeply-held values** does the frame evoke? How so? 
 2. What social **identities** does the frame mobilize or demobilize? How so? 
-2. How does the frame undermine key premises or logics of **competing frames**? 
-
+2. How does the frame undermine key premises or logics of **competing frames** and opposing arguments? 
+:::
 
 <div class="transparent">
 Maizey, please incorporate into each theory of change how developing a theory of change requires creative or original thinking that could be inhibited by using LLMs for first drafts.
