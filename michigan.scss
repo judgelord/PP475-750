@@ -116,8 +116,24 @@ p {
   color: #4c6782;
 }
 
+.reveal li { padding: 5px 0px; }
+
 .reveal ol li:first-child:nth-last-child(n + 10),
 .reveal ol li:first-child:nth-last-child(n + 10) ~ li {
   margin-left: 1em;
+}
+
+ul li:first-child,
+ol li:first-child {
+  margin-top: 0; // No extra space at the end
+}
+
+ul, ol {
+  li {
+    margin-bottom: 0.0em; // Adjust as needed
+    padding-bottom: 0.0em;
+    line-height: 1.1; // Or greater for more space
+    gap: 0.0em;
+  }
 }
 

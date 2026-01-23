@@ -1,17 +1,5 @@
 [
   {
-    "listing": "/slides/index.html",
-    "items": [
-      "/slides/Unger.html",
-      "/slides/agenda-democracy.html",
-      "/slides/art.html",
-      "/slides/ciw.html",
-      "/slides/dwidar.html",
-      "/slides/schlozman.html",
-      "/slides/woodly.html"
-    ]
-  },
-  {
     "listing": "/art/index.html",
     "items": [
       "/art/artassignment.html",
@@ -24,6 +12,7 @@
       "/art/cspg.html",
       "/art/cushing.html",
       "/art/guerrillagirls.html",
+      "/art/jackielay.html",
       "/art/kellianderson.html",
       "/art/labadie.html",
       "/art/labor.html",
@@ -31,6 +20,19 @@
       "/art/sfla.html",
       "/art/sunday.html",
       "/art/umma.html"
+    ]
+  },
+  {
+    "listing": "/slides/index.html",
+    "items": [
+      "/slides/Unger.html",
+      "/slides/agenda-democracy.html",
+      "/slides/art.html",
+      "/slides/ciw.html",
+      "/slides/dwidar.html",
+      "/slides/mcadam.html",
+      "/slides/schlozman.html",
+      "/slides/woodly.html"
     ]
   }
 ]

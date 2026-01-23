@@ -5,9 +5,7 @@ format: html
 image: https://umma.umich.edu/wp-content/uploads/2024/01/8085_ca_object_representations_media_3333_original.jpg
 ---
 
-[![](https://umma.umich.edu/wp-content/uploads/2024/01/8085_ca_object_representations_media_3333_original.jpg)](https://umma.umich.edu/objects/if-nothing-changes-it-changes-nothing-sweater-2009-2-163a/)
+[![](https://umma.umich.edu/wp-content/uploads/2024/01/8085_ca_object_representations_media_3333_original.jpg)](https://umma.umich.edu/groups/633c18249bf41a332da4e539b95820eb/)
 
 
-
-
-<https://umma.umich.edu/objects/if-nothing-changes-it-changes-nothing-sweater-2009-2-163a/>
+[Objects from the UMMA collection curated by David Choberka](https://umma.umich.edu/groups/633c18249bf41a332da4e539b95820eb)

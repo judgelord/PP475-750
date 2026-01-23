@@ -1,0 +1,40 @@
+---
+title: Opportunity Structure, Organizing Vehicles, and Issue Frames
+author: Doug McAdam
+date: "" # today
+image: "https://www.researchgate.net/profile/Sidney-Tarrow/publication/231946280/figure/fig1/AS:349327500300298@1460297574859/A-dynamic-interactive-framework-for-analyzing-mobilization-in-contentious-politics.png"
+subtitle: ""
+title-slide-attributes:
+    data-background-image: "https://www.researchgate.net/profile/Sidney-Tarrow/publication/231946280/figure/fig1/AS:349327500300298@1460297574859/A-dynamic-interactive-framework-for-analyzing-mobilization-in-contentious-politics.png"
+    data-background-size: cover
+    data-background-opacity: "0.3"
+format:
+ revealjs:
+   incremental: false
+   scrollable: true
+   theme: [../michigan.scss, jamesgmartin.scss]
+smaller: false
+---
+
+::: {layout="[[1,3]]"}
+Opportunity Structure
+
+- Institutional rules
+- Party coalitions
+- Macro-politics (e.g., public opinion)
+- Focusing events (e.g., wars, disasters, deaths)
+
+
+
+Organizing Vehicles
+
+- Organization (collective action)
+- Material resources
+- Coalitions
+
+Issue Frames
+
+- Values
+- Identities 
+- Arguments (blame, logic)
+:::
