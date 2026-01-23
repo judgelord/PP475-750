@@ -2,10 +2,10 @@
 title: "Jackie Lay"
 subtitle: ""
 format: html
-image: http://www.jackielay.com/images/m_ubi.gif
+image: http://www.jackielay.com/images/illustration/jackielay_Hillary1.jpg
 ---
 
-[![](http://www.jackielay.com/images/m_ubi.gif)](http://www.jackielay.com/)
+[![](http://www.jackielay.com/images/illustration/jackielay_Hillary1.jpg)](http://www.jackielay.com/)
 
 
 Jackie Lay --- art director, illustrator and animator
