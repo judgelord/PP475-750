@@ -152,12 +152,12 @@ See the end of the syllabus for information about our commitment to best practic
 
 ## 📵 Technology in Class
 
-No screens in class (except as an accommodation via the UM Services for Students with Disabilities office). Research shows that they inhibit learning^[
+No backlit screens in class (except as an accommodation via the UM Services for Students with Disabilities office). Research shows that they inhibit learning^[
 https://www.sciencedirect.com/science/article/pii/S1747938X18300101?via%3Dihub,
 https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.527
-https://osf.io/preprints/socarxiv/6z5pa_v1] and distract your colleagues. Out of respect to the instructor and your fellow students, put your phone away for the duration of class. 
+https://osf.io/preprints/socarxiv/6z5pa_v1] and distract your colleagues. This includes iPads and other tablets with LCD displays. Out of respect to the instructor and your fellow students, **put your phone and smart watch away** for the duration of class. You will not receive participation points for classes where you are on a screen during class time without permission. 
 
-You will not receive participation points for classes where you are on a screen during class time without permission. 
+**E-readers** like Kindle, Nook, or Kobo that use electronic paper ("e-ink") rather than an LCD screen **are allowed in class**. Ask me if you would like to borrow one for the semester to use free access to digital copies of the assigned books via the Library.
 
 ## <i class="bi bi-tools"></i>️ Tools That Generate Text
 
@@ -426,6 +426,10 @@ Daniel Q. Gillion
 - [UM Arts Initiative workshops](https://arts.umich.edu/workshops)
 - Ideas for getting started making art from [The Art Assignment](https://www.theartassignment.com/assignments-landing)
 
+## Practical guides 
+
+- [Student Handbook for Activism: Ann Arbor](https://christiandavenportphd.weebly.com/saving-the-world-handbook.html)
+
 ## American Government Module
 
 If you are looking for more foundation in how government works, the Ford School organized an Intro to American Government Module taught by Political Science Ph.D. candidate Ciera Hammond: 
@@ -464,6 +468,16 @@ Movements outside the United States
 Government propaganda
 
 - [DHS calls for defending American culture. That leaves some Latinos rattled](https://www.npr.org/2025/10/29/nx-s1-5564025/defend-american-culture-dhs-pledge-leaves-some-latinos-rattled)
+- https://www.washingtonpost.com/technology/2025/12/31/ice-wartime-recruitment-push/
+- 
+
+--> 
+
+<!--
+
+## Syllabi for related classes 
+
+- [Repression	and	Dissent	in	Popular	Culture. - Christian	Davenport](https://christiandavenportphd.weebly.com/uploads/1/8/3/5/18359923/pop_struggle_class_2018a.pdf)
 --> 
 
 ---
@@ -508,13 +522,14 @@ There are many "further" readings, and some required readings (especially the lo
 
 > Please read <mark> the entire syllabus</mark> before class---this is your chance to ask questions about the assignments and readings.
 
+<!--
 > [The success of nonviolent civil resistance: Erica Chenoweth at TEDxBoulder](https://www.youtube.com/watch?v=YJSehRlU34w)
 
 
 ::: {.callout-note collapse="true" title="Further reading"}
 - A longer interview on nonviolent civil resistance research with Chenoweth:  [How to Change the World, Hidden Brain](https://www.hiddenbrain.org/podcast/how-to-change-the-world/)
 ::: 
-
+--> 
 
 ### Thursday: in-class [best-practices exercise](best-practices.html)
 
@@ -568,7 +583,7 @@ Example efforts to re-frame:
 
 - Optional background: Chapter 3-4: Efficiency and Welfare
 
-> To Discuss: Woodly: Chapter Two: A Tale of Two Movements - Living Wage
+> To Discuss: Woodly: A Tale of Two Movements - Living Wage
 
 
 ### Thursday at UMMA 
@@ -584,7 +599,7 @@ Example efforts to re-frame:
 
 - Optional background: Stone, Chapter 2: Equity
 
-> To Discuss: Woodly, Chapter Three: A Tale of Two Movements- Marriage Equality
+> To Discuss: Woodly, A Tale of Two Movements - Marriage Equality
 
 ### Thursday: 
 
@@ -599,11 +614,11 @@ Example efforts to re-frame:
 
 <!--OR?--> 
 
-> To Discuss: Woodly, Chapter Five: Political Acceptance and the Process of Political Change
+> To Discuss: Woodly, Political Acceptance and the Process of Political Change
 
 
 
-> To Discuss: Woodly, Chapter Six: From Marginal to Mainstream
+> To Discuss: Woodly, From Marginal to Mainstream
 
 
 ::: {.callout-note collapse="true" title="Further reading"}
