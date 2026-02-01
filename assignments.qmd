@@ -3,7 +3,7 @@
 # title-block-banner: "#001B35" # banner.png
 # title-block-banner-color: body-bg
 format:
-# pdf: default
+ pdf: default
  html:
    toc: true
    toc-location: left
@@ -14,6 +14,9 @@ execute:
   echo: false
   engine: knitr
 ---
+
+PubPol 475/750 Protest, Social Movements, Art, and Policy Change
+
 
 # The Main Assignment: Revise, Critique, Revise, Critique, Revise, Exhibit
     
@@ -161,7 +164,7 @@ It is up to you whether you want to share this spreadsheet with your peer review
 
  
 🚧🚧🚧🚧🚧🚧🚧🚧🚧
---> 
+
 
 
 # Presentations
@@ -177,7 +180,7 @@ I hope you will find it valuable enough that you will want to do it again, but y
 We will do up to 2 per day. While you are welcome to do more than one, the first priority goes to those practicing for the first time. 
 
 I've noticed a tendency for some presenters to offer a lot of preface and explanation before going into the heart of their argument. I think you are better off without it. You want feedback on the theory of change itself, so lead with that. 
-
+--> 
 
 # Peer Reviews 
 
