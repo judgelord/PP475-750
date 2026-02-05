@@ -1,13 +1,12 @@
 ---
 title: "Jackie Lay"
-subtitle: ""
+subtitle: "art director, illustrator and animator"
 format: html
 image: http://www.jackielay.com/images/illustration/jackielay_Hillary1.jpg
 ---
 
-[![](http://www.jackielay.com/images/illustration/jackielay_Hillary1.jpg)](http://www.jackielay.com/)
+![](http://www.jackielay.com/images/design/jackielay_FreeSpeech.jpg)
 
-
-Jackie Lay --- art director, illustrator and animator
+![](http://www.jackielay.com/images/illustration/jackielay_Hillary1.jpg)
 
 <http://www.jackielay.com/>
