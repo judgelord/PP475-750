@@ -1,0 +1,15 @@
+---
+title: "Barbara Kruger"
+#subtitle: ""
+#author: Kelli Anderson
+format: html
+image: https://aarhusinside.dk/wp-content/uploads/2025/06/Besoegende-ser-paa-stort-roedt-tekstvaerk-af-Barbara-Kruger-paa-ARoS.webp
+image-alt: Barbara Kruger art
+---
+
+
+![](https://aarhusinside.dk/wp-content/uploads/2025/06/Besoegende-ser-paa-stort-roedt-tekstvaerk-af-Barbara-Kruger-paa-ARoS.webp)
+
+
+
+<https://www.guggenheim-bilbao.eus/fr/expositions/barbara-kruger>
