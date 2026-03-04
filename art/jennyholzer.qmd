@@ -1,0 +1,13 @@
+---
+title: Vote for Your Future
+author: Jenny Holzer
+image: https://projects.jennyholzer.com/uploads/project/image/attachment/2077/04_D0_55_045.jpg
+image-alt: Jenny Holzer art
+---
+
+
+![](https://projects.jennyholzer.com/uploads/project/image/attachment/2077/04_D0_55_045.jpg)
+
+
+
+<https://projects.jennyholzer.com/vote-your-future/>

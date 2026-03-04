@@ -1,14 +1,12 @@
 ---
-title: "Barbara Kruger"
-#subtitle: ""
-#author: Kelli Anderson
-format: html
-image: https://aarhusinside.dk/wp-content/uploads/2025/06/Besoegende-ser-paa-stort-roedt-tekstvaerk-af-Barbara-Kruger-paa-ARoS.webp
-image-alt: Barbara Kruger art
+title: "Obey"
+author: Shepard Fairey
+image: https://i0.wp.com/obeygiant.com/images/2026/01/It-Cant-Happen-18X24.jpg
+image-alt: "It Can't Happen Here - Shepard Fairey"
 ---
 
 
-![](https://i0.wp.com/obeygiant.com/images/2026/01/It-Cant-Happen-18X24.jpg)
+!["It Can't Happen Here" - Shepard Fairey](https://i0.wp.com/obeygiant.com/images/2026/01/It-Cant-Happen-18X24.jpg "It Can't Happen Here - Shepard Fairey" )
 
 
 <https://obeygiant.com>
