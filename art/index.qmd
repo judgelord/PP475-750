@@ -114,6 +114,8 @@ format:
 
 {{< video https://www.youtube.com/watch?v=qEiywFC3tqk title="Bread and Roses" >}}
 
+{{< video https://www.youtube.com/watch?v=VE75N-uTN58 title="Children No More: Were and Are Gone" >}}
+
 <!--
 {{< video https://www.youtube.com/watch?v=5HkYrA3fg_U title="Rosa Luxemburg (1986)" >}} <!--https://ok.ru/video/6665770961506--> 
 

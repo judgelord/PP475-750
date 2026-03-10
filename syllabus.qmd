@@ -58,7 +58,7 @@ Links to course resources:
 
 ---
 
-🚧 Syllabus updated: [`r Sys.Date() |> format("%B %d %Y")`](https://github.com/judgelord/PP475-750/commits/main/docs/syllabus.html). The current version is [here](https://judgelord.github.io/PP475-750/). 🚧
+🚧 Syllabus updated: [`r Sys.Date() |> format("%B %d %Y")`](https://github.com/judgelord/PP475-750/commits/main/docs/syllabus.html). This is [the current version](https://judgelord.github.io/PP475-750/). 🚧
 
 <!--
 This course advanced my understanding of the subject matter. Q1631*
