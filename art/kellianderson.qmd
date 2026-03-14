@@ -3,10 +3,11 @@ title: "COUNTERFEIT NEWS"
 #subtitle: ""
 author: Kelli Anderson
 format: html
-image: https://www.kellianderson.com/projects/assets/images/project_images/newspaper1.jpg
+image: https://farm4.static.flickr.com/3065/3025164416_5024b75e8c.jpg
+image-alt: "A newspaper with the headline IRAQ WAR ENDS"
 ---
 
-[![](https://www.kellianderson.com/projects/assets/images/project_images/newspaper1.jpg)](https://www.kellianderson.com/projects/fakenewspapers.html)
+![Counterfit News by Kelli Anderson](https://farm4.static.flickr.com/3065/3025164416_5024b75e8c.jpg "A newspaper with the headline IRAQ WAR ENDS")
 
 
 
