@@ -2,11 +2,12 @@
 title: "Jackie Lay"
 subtitle: "art director, illustrator and animator"
 format: html
-image: http://www.jackielay.com/images/illustration/jackielay_Hillary1.jpg
+image: http://www.jackielay.com/images/design/jackielay_FreeSpeech.jpg
+image-alt: Flag art by Jackie Lay
 ---
 
-![](http://www.jackielay.com/images/design/jackielay_FreeSpeech.jpg)
+![](http://www.jackielay.com/images/design/jackielay_FreeSpeech.jpg "American flag art with writing on top")
 
-![](http://www.jackielay.com/images/illustration/jackielay_Hillary1.jpg)
+![](http://www.jackielay.com/images/illustration/jackielay_Hillary1.jpg "Art pieces on immigration and belonging by Jackie Lay")
 
 <http://www.jackielay.com/>

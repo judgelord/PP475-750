@@ -1,10 +1,10 @@
 ---
-title: "Barbara Kruger"
-#subtitle: ""
-#author: Kelli Anderson
+title: Another day. Another night
+author: "Barbara Kruger"
+subtitle: "Guggenheim Bilbao"
 format: html
 image: https://aarhusinside.dk/wp-content/uploads/2025/06/Besoegende-ser-paa-stort-roedt-tekstvaerk-af-Barbara-Kruger-paa-ARoS.webp
-image-alt: Barbara Kruger art
+image-alt: people viewing Barbara Kruger art
 ---
 
 
