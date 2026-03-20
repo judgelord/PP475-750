@@ -21,9 +21,9 @@ format:
 
 ## Dramatization 
 
-::: {layout="[[1,1,1]]"}
 
-{{< video https://www.youtube.com/watch?v=GYOW1S7CJhc title="Fox Nation: Liberty or Death" >}}
+
+::: {layout="[[1,1,1]]"}
 
 {{< video https://www.youtube.com/watch?v=WgUIP4dnR64 title="The Cradle Will Rock" >}}
 
@@ -35,7 +35,6 @@ format:
 
 {{< video https://youtu.be/nP9PpQ0TNjY title="Mrs. America" >}}
 
-{{< video https://www.youtube.com/watch?v=zeo-q-8MOQ4 title="Cesar Chavez" >}}
 
 {{< video https://www.youtube.com/watch?v=l6Ro8dvYpsM title="Salt of the Earth" >}} <!--https://www.youtube.com/watch?v=sk3-As0yh3k--> 
 
@@ -55,6 +54,15 @@ format:
 
 - [Review: ‘Stonewall’ (2015) Doesn’t Distinguish Between Facts and Fiction - NYT](https://www.nytimes.com/video/movies/100000003935520/movie-review-stonewall.html?smid=url-share)
 
+
+<!-- unnecessary affirmative action 
+{{< video https://www.youtube.com/watch?v=GYOW1S7CJhc title="Fox Nation: Liberty or Death" >}}
+--> 
+
+<!--bummer
+{{< video https://www.youtube.com/watch?v=zeo-q-8MOQ4 title="Cesar Chavez" >}}
+--> 
+
 <!--
 {{< video https://www.youtube.com/watch?v=IrDpd4sCswY title="Bread and Roses" >}} <!---https://www.youtube.com/watch?v=0sV0pMi2kiQ--> 
 
@@ -72,8 +80,9 @@ format:
 
 {{< video https://www.youtube.com/watch?v=oOaeUbZ7ums title="Historic Protest Movements in Every Decade (History Channel)" >}}
 
-
 {{< video https://www.youtube.com/watch?v=IY-LWpby-aU title="The Walkout" >}}
+
+{{< video https://www.youtube.com/watch?v=GWWWPW7I0iU title="How a 1968 Student Protest Fueled a Chicano Rights Movement" >}}
 
 {{< video https://youtu.be/6PfaE4R4eA4 title="Harlan County USA" >}}
 
@@ -98,7 +107,7 @@ format:
 
 {{< video https://youtu.be/xzRUwwRQzVc title="At the River I Stand" >}}
 
-{{< video https://youtu.be/xfs8zy1pYjs title="Your Got To Move" >}}
+{{< video https://youtu.be/xfs8zy1pYjs title="You Got To Move" >}}
 
 {{< video https://vimeo.com/643322144?fl=pl&fe=cm title="Necessity: Oil, Water and Climate Resistance" >}}
 
