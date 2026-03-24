@@ -95,7 +95,7 @@ Theories of change or resistance to change should be grounded in the assigned re
 There must be at least one public policy change implicated, even if only indirectly. Your movement(s) may target many policies. I want to know which specific policy change you are targeting first through your art. 
 
 
-![McAdam, 1999, Figure 3.1: A Political Process Model of Movement Emergence](http://amiens-sociologie.fr/wp-content/uploads/2020/12/political-process.png "McAdam, 1999, Figure 3.1: A Political Process Model of Movement Emergence")
+![McAdam, 1999, Figure 3.1: A Political Process Model of Movement Emergence](figs/political-process.png "McAdam, 1999, Figure 3.1: A Political Process Model of Movement Emergence")
 
 
 ::: {.callout-note collapse="true" icon="false" appearance="simple" title="-1- Opportunity Structure"}
