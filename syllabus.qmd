@@ -13,6 +13,8 @@ execute:
   engine: knitr
 ---
 
+<!--REMBER TO APPLY FOR $ NEXT TIME https://arts.umich.edu/funding--> 
+
 PubPol 475/750 Protest, Social Movements, Art, and Policy Change
 
 

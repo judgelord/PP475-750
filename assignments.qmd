@@ -94,7 +94,9 @@ Theories of change or resistance to change should be grounded in the assigned re
 
 There must be at least one public policy change implicated, even if only indirectly. Your movement(s) may target many policies. I want to know which specific policy change you are targeting first through your art. 
 
-![McAdam, 1999, Figure 3.1: A Political Process Model of Movement Emergence](http://amiens-sociologie.fr/wp-content/uploads/2020/12/political-process.png)
+
+![McAdam, 1999, Figure 3.1: A Political Process Model of Movement Emergence](http://amiens-sociologie.fr/wp-content/uploads/2020/12/political-process.png "McAdam, 1999, Figure 3.1: A Political Process Model of Movement Emergence")
+
 
 ::: {.callout-note collapse="true" icon="false" appearance="simple" title="-1- Opportunity Structure"}
 What opportunities for and constraints on policy change exist in the current political and institutional context? Who stands to gain and who stands to lose from change? What are their relationships to those in formal positions of power? Do coalitions need to be reshaped? Do a certain number of people need to win or lose elections? What are the odds of that happening? What "specific configurations of resources, institutional arrangements, and historical precedents for social mobilization" (Kitschelt 1986, p. 58) shape the political terrain? 
