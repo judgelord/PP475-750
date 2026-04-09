@@ -93,6 +93,10 @@ format:
 
 {{< video https://www.youtube.com/watch?v=a2YO0nSXTiM title="She Derailed a Fight for Equal Rights for Women - Retro Report" >}}
 
+{{< video https://www.youtube.com/watch?v=jULC3SCX9wE title="Sir No Sir" >}}
+
+{{< video https://www.youtube.com/watch?v=maLAzbxe97o title="Passin’ It On" >}}
+
 {{< video https://youtu.be/TFkJPCdmnsM title="Banned Together" >}}
 
 {{< video https://youtu.be/_0Uj1kYfsYQ title="Cured" >}}
