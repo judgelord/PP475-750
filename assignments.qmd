@@ -22,7 +22,7 @@ PubPol 475/750 Protest, Social Movements, Art, and Policy Change
 
 ## Sketch, Revise, Critique, Revise, Critique, Revise, Exhibit
     
-The main assignments for this class all build to an exhibition of six pieces of original movement art and an accompanying theory of change rooted in social science research. We will ultimately adopt UMMAs rule of 300 words describing the theory for the series, plus 150 words describing the theory specific to each piece. I imagine that the 300 words will focus on the political opportunity structure and organizational landscape (Theory of Change parts 1-2 below), while the 150 words will mostly focus on how each piece frames the issue to resonate with a particular audience (parts3-6. below). However, such a division of content is not a requirement; address the questions as you feel appropriate. Some framing choices may apply to the entired series.
+The main assignments for this class all build to an exhibition of six pieces of original movement art and an accompanying theory of change rooted in social science research. We will ultimately adopt UMMAs rule of 300 words describing the theory for the series, plus 150 words describing the theory specific to each piece. I imagine that the 300 words will focus on the political opportunity structure and organizational landscape (Theory of Change parts 1-2 below), while the 150 words will mostly focus on how each piece frames the issue to resonate with a particular audience (parts3-6. below). However, such a division of content is not a requirement; address the questions as you feel appropriate. Some framing choices may apply to the entire series.
 
 ## The Art
 
@@ -116,7 +116,7 @@ Consider the features identified by McAdam in Chapter 3 (p 40-43):
 ::: {.callout-note collapse="true" icon="false" appearance="simple" title="-2- Vehicles"}
 Politics is fundamentally an organized activity. Thus, theories of change must include the role of organizations. The vehicles are organizations that organize people and translate latent political energy into kinetic political action. They may not exist. That is fine. The need for new forms of organizing could be part of your theory of change. But every social movement scholar would agree that organization is key (it's the key features of organizations and what they do that are debated). Framing processes are more likely and of greater consequence under conditions of strong rather than weak organization (McAdam et al., 1996, p. 9).
 
-What organizations serve as vehicles to translate movement demands to organized political activity and policy change? Describe the organizational structures, organizational cultures, or interorganizational environments within the movement (Woodly 2015, p,.35). 
+What organizations serve as vehicles to translate movement demands to organized political activity and policy change? Describe the organizational structures, organizational cultures, or interorganizational environments within the movement (Woodly 2015, p. 35). 
 Are they choosing the right battles? Are they framing the issues in the most effective way? Is their theory of change (or resistance to change) realistic? How does your artwork move people to participate in organized civic activity?  
 
 Consider the features of "latent" or "indigenous" organizational strength identified by McAdam in Chapter 3 (p 43-48): 
@@ -171,11 +171,11 @@ References must be hyperlinked wherever possible. Please try to link to stable p
 
 ### The final exhibit 
 
-I suggest that the series and each peice have a title.
+I suggest that the series and each piece have a title.
 
 Your 300-word theory of change for the series will be printed portrait-oriented 11x17 page. 
 
-Your 150-word theories for each piece will be printed landscape on a 8.5 x 11 page. 
+Your 150-word theories for each piece will be printed landscape on an 8.5 x 11 page. 
 
 Text should be **Nunito Sans** and the same size on all pages. 
 
@@ -306,7 +306,7 @@ The only thing that is really out of bounds for this assignment is violence; eve
 
 <!--
 As I said in my comments, if you want the CIA to stop assassinating people, that is policy. --> 
-If you want the state to shrink or stop doing things, that is policy. How are you going to achieve this through non-violence? Building alternative forms of collective action is good, but there are likley things you want the state to stop doing (including, perhaps, things that make your alternative forms of collective action more difficult). How is that achieved? How has that been achieved in the past? "Leave us alone" is a common protest slogan. That is both entirely consistent with anarchism and a call for policy change. Liberation movements may also include "leave them alone" --- such demands are policy advocacy in my view, though the strategy probably does not go through cost-benefit analysis or traditional lobbying. It may not even go through elections. However, if you think the current decision-makers are unpersuadably hostile to your viewpoint, replacing them may be a key part of your theory of change. 
+If you want the state to shrink or stop doing things, that is policy. How are you going to achieve this through non-violence? Building alternative forms of collective action is good, but there are likely things you want the state to stop doing (including, perhaps, things that make your alternative forms of collective action more difficult). How is that achieved? How has that been achieved in the past? "Leave us alone" is a common protest slogan. That is both entirely consistent with anarchism and a call for policy change. Liberation movements may also include "leave them alone" --- such demands are policy advocacy in my view, though the strategy probably does not go through cost-benefit analysis or traditional lobbying. It may not even go through elections. However, if you think the current decision-makers are unpersuadably hostile to your viewpoint, replacing them may be a key part of your theory of change. 
 
 <!--
 I also don't see a huge distance between what I asked for and what you have. There are many places where you implicate policy and tactics that might help achieve the policy. I think they just need to string together a bit into a story people can believe in. The odds might be very long (as they almost always are with challenger movements) and it may take 100 years (abolition, suffrage, etc), but my challenge to you is to articulate a way that these policies you critique end that does not involve a military coup or armed revolution. I think you believe that it is possible, and you already pointed to a bunch of tactics that we've read about in class. Just spell it out a bit more.

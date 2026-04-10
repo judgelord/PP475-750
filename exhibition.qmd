@@ -1,0 +1,30 @@
+---
+# listing:
+#   contents:
+#     - "*.qmd"
+#   type: grid
+#   sort: "date desc"
+#   date-format: medium
+#   id: exhibition
+#   max-description-length: 80
+format:
+ html:
+   toc: false
+   theme: michigan.scss
+   css: styles.css
+---
+
+# Student Art for Policy Change Exhibit 2026
+
+April 21, 1-2:20 PM, The Great Hall, Weill Hall, 735 S State St. 
+
+Please join the students of PubPol 475/750 as they showcase some of the art they created this semester. Ask them about how social science research and theory, [UMMA's American Sampler Exhibit](https://umma.umich.edu/exhibitions/american-sampler-activating-the-archive/), and the [Labadie Collection](https://www.lib.umich.edu/collections/collecting-areas/special-collections/joseph-labadie-collection) informed their art.
+
+![](https://www.ramsa.com/sites/default/files/A02002-ESTO-2006A87.463.jpg "A photo of Weill Hall's Great Hall")
+
+
+
+::: {layout="[[1,1,1]]"}
+
+
+:::

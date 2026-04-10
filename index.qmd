@@ -57,7 +57,7 @@ This class will be a collaboration with UMMA staff and their [American Sampler](
 
 ![Students for Life of America, University of North Texas Chapter](https://studentsforlife.org/wp-content/uploads/2023/10/Screen-Shot-2023-10-23-at-1.53.26-PM-min.jpg "Chalk Art of a pregnant woman saying Love them Both")
 
-![Never Again by BubbSnugg](https://image.spreadshirtmedia.com/image-server/v1/products/T1459A839PA3861PT28X8Y0D1025685656W8333H10000/views/1,width=1200,height=630,appearanceId=839,backgroundColor=F2F2F2/never-again-coat-hanger-pro-choice-is-pro-life-sticker.jpg)
+![Never Again by BubbSnugg](https://image.spreadshirtmedia.com/image-server/v1/products/T1459A839PA3861PT28X8Y0D1025685656W8333H10000/views/1,width=1200,height=630,appearanceId=839,backgroundColor=F2F2F2/never-again-coat-hanger-pro-choice-is-pro-life-sticker.jpg "Never Again Coat Hanger Pro-Choice sticker by BubbSnugg")
 
 ![SNCC Poster: Come Let Us Build A New World Together by Danny Lyon](https://umma.umich.edu/wp-content/uploads/2025/10/Websize_SNCC_Danny-Lyon_come-let-us-build-a-new-world-together-617x485.jpg "SNCC Poster: Come Let Us Build A New World Together by Danny Lyon")
 
@@ -81,14 +81,14 @@ This class will be a collaboration with UMMA staff and their [American Sampler](
 
 ::: {layout="[[1,1,1, 1]]"}
 
-![Freedom of Speech by Norman Rockwell](https://rockwellfourfreedoms.org/wp-content/uploads/2018/03/FreedomofSpeech-sm-2.jpg)
+![Freedom of Speech by Norman Rockwell](https://rockwellfourfreedoms.org/wp-content/uploads/2018/03/FreedomofSpeech-sm-2.jpg "Freedom of Speech by Norman Rockwell")
 
-![Fredom of Worship by Norman Rockwell](https://rockwellfourfreedoms.org/wp-content/uploads/2018/03/FreedomofWorship-sm-2.jpg)
+![Fredom of Worship by Norman Rockwell](https://rockwellfourfreedoms.org/wp-content/uploads/2018/03/FreedomofWorship-sm-2.jpg "Fredom of Worship by Norman Rockwell")
 
-![Freedom from Want by Norman Rockwell](https://rockwellfourfreedoms.org/wp-content/uploads/2018/03/FreedomfromWant-sm-2.jpg)
+![Freedom from Want by Norman Rockwell](https://rockwellfourfreedoms.org/wp-content/uploads/2018/03/FreedomfromWant-sm-2.jpg "Freedom from Want by Norman Rockwell")
 
 
-![Freedom from Fear by Norman Rockwell](https://rockwellfourfreedoms.org/wp-content/uploads/2018/03/FreedomfromFear-sm-2.jpg)
+![Freedom from Fear by Norman Rockwell](https://rockwellfourfreedoms.org/wp-content/uploads/2018/03/FreedomfromFear-sm-2.jpg "Freedom from Fear by Norman Rockwell")
 
 <!--
 
@@ -106,8 +106,10 @@ This class will be a collaboration with UMMA staff and their [American Sampler](
 
 :::
 
-![A detail from Diego Rivera’s Detroit Industry at the DIA. Photo: Getty Images](https://stories.vassar.edu/2016/assets/images/161116-hipsters-wall.jpg)
+![Varieties of Abundance - Niskanen Center](https://www.niskanencenter.org/wp-content/uploads/2025/08/Screenshot-2025-08-27-at-10.52.55-PM-1024x430.png "Varieties of Abundance - Niskanen Center")
 
-![Coalition of Immokalee Workers mística theater at the March for Rights, Respect and Fair Food](https://monacaron.com/sites/default/files/styles/full_width_1006/public/CIW_MisticaTheater_0013_MonaCaron.jpg)
+![A detail from Diego Rivera’s Detroit Industry at the DIA. Photo: Getty Images](https://stories.vassar.edu/2016/assets/images/161116-hipsters-wall.jpg "A detail from Diego Rivera’s Detroit Industry at the DIA.")
 
-![“wartime recruitment” - ICE’s New-Age Propaganda - The New Yorker](https://media.newyorker.com/photos/695d8f9a72aafd18e512ec43/2:2/w_2240,c_limit/NewYorker_ICEads_Final_animation_v2.gif)
+![Coalition of Immokalee Workers mística theater at the March for Rights, Respect and Fair Food](https://monacaron.com/sites/default/files/styles/full_width_1006/public/CIW_MisticaTheater_0013_MonaCaron.jpg "Coalition of Immokalee Workers mística theater at the March for Rights, Respect and Fair Food")
+
+![“wartime recruitment” - ICE’s New-Age Propaganda - The New Yorker](https://media.newyorker.com/photos/695d8f9a72aafd18e512ec43/2:2/w_2240,c_limit/NewYorker_ICEads_Final_animation_v2.gif "“wartime recruitment” - ICE’s New-Age Propaganda - The New Yorker")
