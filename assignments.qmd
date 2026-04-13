@@ -179,8 +179,17 @@ Your 150-word theories for each piece will be printed landscape on an 8.5 x 11 p
 
 Text should be **Nunito Sans** and the same size on all pages. 
 
+::: {.callout-important}
+The font is Nunito Sans SANS-SERIF. 
+
+Be sure to use Nunito Sans, not Nunito
+:::
+
 When you submit on Canvas, please indicate if you are comfortable with the Ford School, UMMA, or I sharing any of your pieces of art online and, if so, which ones. Please also include alt text for each. 
 
+::: {.callout-note}
+See [Ford School style toolkit](https://drive.google.com/file/d/1BxxzI6Op-fJSNZxufAoq0ArMTJY_xC-K/view) for more.
+:::
 
 <!--
 An "annotated bibliography" in footnotes means two things: 
