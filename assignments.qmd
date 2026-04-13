@@ -192,6 +192,10 @@ An "annotated bibliography" in footnotes means two things:
 Use footnotes for annotated bibliographies to make it easier for your peer reviewers, me, and future editors to connect what you say in the essay to the citation. If your exhibition is published, citations will likely take the form of hyperlinks, perhaps with endnotes or margin notes for some online publications. 
 --> 
 
+# Tips 
+
+- Whenever using content in a language you don't speak, have someone translate it for you so you know what it says. 
+
 
 # Revisions Spreadsheet
 
