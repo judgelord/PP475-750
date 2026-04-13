@@ -42,4 +42,4 @@ docs1
 archive
 **/*.quarto_ipynb
 student-drafts
-figs
+/figs/
