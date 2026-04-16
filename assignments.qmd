@@ -171,13 +171,14 @@ References must be hyperlinked wherever possible. Please try to link to stable p
 
 ### The final exhibit 
 
-I suggest that the series and each piece have a title.
+I will provide a template to print your theories of change. Please send the final version, `with footnotes removed`, to me at least `two business days before` the exhibit. 
 
-Your 300-word theory of change for the series will be printed portrait-oriented 11x17 page. 
+- The series and each piece have a title.
+- Your 300-word theory of change for the series will be printed portrait-oriented 11x17 page. 
+- Your 150-word theories for each piece will be printed landscape on an 8.5 x 11 page. 
+- Text will be **Nunito Sans** and the same size on all pages. 
 
-Your 150-word theories for each piece will be printed landscape on an 8.5 x 11 page. 
-
-Text should be **Nunito Sans** and the same size on all pages. 
+The version you submit on canvas should have your footnotes and need not be formatted for exhibition. 
 
 ::: {.callout-important}
 The font is Nunito Sans SANS-SERIF. 

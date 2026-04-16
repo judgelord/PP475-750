@@ -16,7 +16,6 @@ format:
 
 # Student Art for Policy Change Exhibit 2026
 
-
 ::: {layout="[[1,1]]"}
 
 **Date & time**<br>
@@ -25,19 +24,15 @@ April 21, 1-2:20 PM
 **Location**<br>
 The Becky Blank Great Hall<br>Weill Hall, [735 S State St.](https://www.google.com/maps/place/735%20South%20State%20St.%20%0D%0AAnn%20Arbor%2C%20MI%2048105)
 
-Please join the students of PubPol 475.005/750.005 as they showcase some of the art they created this semester. Ask them about how social science research and theory, [UMMA's American Sampler Exhibit](https://umma.umich.edu/exhibitions/american-sampler-activating-the-archive/), the [Arts Initiative](https://arts.umich.edu/arts-initiative/), and the [Labadie Collection](https://www.lib.umich.edu/collections/collecting-areas/special-collections/joseph-labadie-collection) informed their art.
+Please join the students of PubPol 475.005/750.005 as they showcase some of the art they created this semester. This year's students focused on a range of topics, including healthcare, disability, climate change, war, housing, imperialism, and immigration policy. Ask them about how social science research and theory, [UMMA's American Sampler Exhibit](https://umma.umich.edu/exhibitions/american-sampler-activating-the-archive/), the [Arts Initiative](https://arts.umich.edu/arts-initiative/), and the [Labadie Collection](https://www.lib.umich.edu/collections/collecting-areas/special-collections/joseph-labadie-collection) informed their art.
 
 ![](https://fordschool.umich.edu/sites/default/files/2023-03/gramlich-2023-video-teaser-1090x681.jpg "A photo of student's presenting in Weill Hall's Great Hall")
 
 :::
 
-
 For students, the exhibit is an opportunity to share their art with the broader community, to teach others about the role of art and social movements in policy change, to respond to thought-provoking questions, and to engage in dialogue about what kind of future we want and how we might get there. For guests, the exhibit is an opportunity to learn about the role of art and social movements in policy change and different theories of policy change.
 
 Join us as we celebrate the work of our students!
-
-
-
 
 ::: {layout="[[2,1.5]]"}
 
